@@ -14,6 +14,8 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
+from scripts import skills_loader as sl
+
 
 # --- Configuration ---
 
@@ -82,14 +84,14 @@ def get_cleaning_recommendations(file_path):
 # --- 2. Generate cleaning functions ---
 
 
-def generate_cleaning_functions(cleaning_analysis, df_metadata):
+def generate_cleaning_functions(cleaning_insights, df_metadata):
 
     """
     Generate Python cleaning functions from an analysis
     and DataFrame metadata.
 
     Args:
-        cleaning_analysis (str): Summary of cleaning issues.
+        cleaning_insights (str): Summary of cleaning issues.
         df_metadata (dict): Metadata describing the DataFrame.
 
     Returns:
@@ -97,14 +99,19 @@ def generate_cleaning_functions(cleaning_analysis, df_metadata):
         names, affected columns, reasons, and source code.
     """
 
-    prompt = f"""
-    You are a Python data-cleaning function generator.
+    skills_loaded = sl.load_skill_text(cleaning_insights)
 
-    INPUT 1: CLEANING ANALYSIS
-    {cleaning_analysis}
+    prompt = f"""
+    You are an expert Python anlayst who specializes in data-cleaning function generation.
+
+    INPUT 1: Cleaning_insights
+    {cleaning_insights}
 
     INPUT 2: DATAFRAME METADATA
     {json.dumps(df_metadata, default=str)}
+
+    INPUT 3: Skills at your disposal. FOLLOW THESE SKILLS (reference recipes, copy their style and rules):
+    {skills_loaded if skills_loaded else "(no matching skill, use plain Pandas best practice)"}
 
     YOUR TASK:
     Generate small Python functions for basic data-cleaning
@@ -126,6 +133,7 @@ def generate_cleaning_functions(cleaning_analysis, df_metadata):
         values, correcting confirmed data types, and replacing
         confirmed invalid values.
     11. Do not include imports or Markdown code fences.
+    12. Use the skills provided, but do not invent new skills or recipes.
 
     RETURN FORMAT:
     Return valid JSON with this structure:
