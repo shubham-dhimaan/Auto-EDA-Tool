@@ -177,3 +177,88 @@ def code_repair(function_dict, error, metadata):
     # Keep the original dict, take only the new code from Gemini
     return repaired
 
+#---    3. Code runner for EDA steps that stroes every output ---- 
+
+def execute_eda_steps(json_of_functions, data, metadata):
+
+    """
+    Executes AI-generated EDA data-functions and stroes output in a dict.
+
+    Args:
+        json_of_functions (str): JSON string containing the functions to execute.
+        data (pd.DataFrame): The DataFrame to clean.
+        metadata (dict): Metadata describing the DataFrame.
+
+    Returns:
+        dict: of the function ran, why it ran and the result
+    """
+
+    copy_df = data.copy()  # Create a copy of the original DataFrame to avoid modifying it directly
+    
+    # Converts JSON string into dictionary
+
+    function_dict = json.loads(json_of_functions)
+
+    output_report = []
+
+    for func_data in function_dict["functions"]:
+        current_function = func_data["name"]           # extracting current iteration of the function and storing in current_function (name only)
+        
+        try:
+            function_box = {"pd": pd, "np": np}                # Add any other libraries you might need here
+            exec(func_data["code"], function_box)          # extracts the code for the current function and exccutes it and stores the function object in the function_box dictionary with the name of the function as key
+
+             # Retrieve and run the function
+            ready_function = function_box[current_function]             # takes that function object and stores it in ready_function
+            result = ready_function(copy_df.copy())
+
+            output_report.append(
+                {
+                    "name": current_function,
+                    "actions": func_data["action"],
+                    "reason": func_data["reason"],
+                    "output": result
+
+                }
+            )
+
+
+            print(f"[SUCCESS] {current_function} ran successfully and output is stored.")
+
+        except Exception as e:                                              # catches the error if the function fails to run and prints the error message 
+            
+            print(f"[FAILED] {current_function} — {type(e).__name__}: {e}") 
+            print("Calling Code Repair function to fix the error...")
+            repaired_function = code_repair(func_data, e, metadata)
+
+            func_data = repaired_function                                   # changing current iteration with repaired function so that it can be executed 
+            current_function = repaired_function["name"]
+            
+            try: 
+                function_box = {"pd": pd, "np": np}             # Add any other libraries you might need here
+
+                exec(repaired_function["code"], function_box)
+                ready_function = function_box[current_function]
+                result = ready_function(copy_df.copy())
+                
+                output_report.append(
+                                {
+                                    "name": current_function,
+                                    "actions": func_data["action"],
+                                    "reason": func_data["reason"],
+                                    "output": result
+                
+                                }
+                            )
+                
+
+                print(f"[SUCCESS] {current_function} ran successfully after repair.")
+            
+            except Exception as e2:
+                print(f"[FAILED] {current_function} — {type(e2).__name__}: {e2}")
+                print("Skipping this function and moving to the next one.")
+
+        
+        
+    print("Analysis process completed.")
+    return output_report        

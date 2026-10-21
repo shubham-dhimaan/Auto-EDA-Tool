@@ -1,0 +1,501 @@
+order_id,order_date,universe,movie_title,movie_type,product_type,sales_channel,region,customer_segment,units_sold,unit_price_usd,discount_pct,gross_sales_usd,discount_amount_usd,net_sales_usd,rental_days
+ORD00010,2024-01-03,DC,The Batman,Solo Hero,Digital Purchase,HeroShelf,Europe,Casual Viewer,1,13.49,15,13.49,2.02,11.47,0
+ORD00445,2024-01-03,Marvel,Thor: Love and Thunder,Solo Hero,Digital Purchase,HeroShelf,Europe,Fan,2,14.24,10,28.48,2.85,25.63,0
+ORD00094,2024-01-06,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,2,27.49,10,54.98,5.5,49.48,0
+ORD00318,2024-01-09,DC,The Dark Knight,Solo Hero,Blu-ray,Online Marketplace,North America,Fan,1,27.49,5,27.49,1.37,26.12,0
+ORD00017,2024-01-10,DC,Shazam! Fury of the Gods,Solo Hero,Digital Rental,CineNow,North America,Fan,2,5.22,5,10.44,0.52,9.92,5
+ORD00224,2024-01-11,Marvel,Spider-Man: No Way Home,Solo Hero,Blu-ray,Online Marketplace,Europe,Casual Viewer,1,22.49,5,22.49,1.12,21.37,0
+ORD00372,2024-01-11,DC,Wonder Woman,Solo Hero,Blu-ray,Retail Store,North America,Casual Viewer,1,26.24,25,26.24,6.56,19.68,0
+ORD00446,2024-01-12,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,StreamFlix,Europe,Casual Viewer,1,14.24,20,14.24,2.85,11.39,0
+ORD00064,2024-01-17,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,5,5.49,15,27.45,4.12,23.33,5
+ORD00086,2024-01-20,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,CineNow,Asia-Pacific,Collector,2,4.94,5,9.88,0.49,9.39,7
+ORD00186,2024-01-23,DC,Aquaman,Solo Hero,Digital Rental,CineNow,North America,Family,1,5.76,15,5.76,0.86,4.9,7
+ORD00210,2024-01-24,DC,Shazam! Fury of the Gods,Solo Hero,Merchandise,Retail Store,Europe,Casual Viewer,2,21.99,20,43.98,8.8,35.18,0
+ORD00049,2024-02-02,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,5,20.99,0,104.95,0.0,104.95,0
+ORD00245,2024-02-03,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Merchandise,HeroShelf,Europe,Casual Viewer,2,20.99,5,41.98,2.1,39.88,0
+ORD00371,2024-02-05,DC,Blue Beetle,Solo Hero,Merchandise,Retail Store,North America,Collector,2,21.99,10,43.98,4.4,39.58,0
+ORD00030,2024-02-06,Marvel,Black Panther,Solo Hero,Digital Purchase,CineNow,North America,Casual Viewer,3,15.74,10,47.22,4.72,42.5,0
+ORD00149,2024-02-06,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,Online Marketplace,Latin America,Collector,1,17.99,0,17.99,0.0,17.99,0
+ORD00314,2024-02-08,DC,Black Adam,Solo Hero,Digital Rental,StreamFlix,Europe,Casual Viewer,2,5.22,10,10.44,1.04,9.4,5
+ORD00053,2024-02-09,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,Europe,Collector,1,5.49,10,5.49,0.55,4.94,5
+ORD00303,2024-02-12,Marvel,Avengers: Endgame,Team-Up,Digital Rental,CineNow,Europe,Family,1,5.76,5,5.76,0.29,5.47,5
+ORD00253,2024-02-15,Marvel,The Marvels,Team-Up,Digital Purchase,HeroShelf,Asia-Pacific,Fan,5,14.99,10,74.95,7.5,67.45,0
+ORD00417,2024-02-16,DC,Blue Beetle,Solo Hero,Merchandise,Online Marketplace,North America,Fan,1,18.99,10,18.99,1.9,17.09,0
+ORD00480,2024-02-26,DC,Aquaman,Solo Hero,Digital Purchase,HeroShelf,Asia-Pacific,Family,2,14.24,10,28.48,2.85,25.63,0
+ORD00079,2024-02-27,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,StreamFlix,North America,Fan,1,6.04,0,6.04,0.0,6.04,5
+ORD00385,2024-03-02,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,CineNow,Latin America,Collector,1,15.74,10,15.74,1.57,14.17,0
+ORD00425,2024-03-02,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,North America,Fan,1,5.49,0,5.49,0.0,5.49,3
+ORD00032,2024-03-03,Marvel,The Marvels,Team-Up,Merchandise,HeroShelf,Asia-Pacific,Family,2,17.99,30,35.98,10.79,25.19,0
+ORD00369,2024-03-05,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,StreamFlix,Europe,Casual Viewer,1,4.94,5,4.94,0.25,4.69,1
+ORD00124,2024-03-09,Marvel,Black Panther,Solo Hero,Digital Rental,StreamFlix,North America,Fan,2,4.94,20,9.88,1.98,7.9,1
+ORD00074,2024-03-10,Marvel,Black Panther,Solo Hero,Digital Purchase,HeroShelf,North America,Fan,2,15.74,25,31.48,7.87,23.61,0
+ORD00260,2024-03-11,Marvel,Black Panther,Solo Hero,Digital Rental,HeroShelf,North America,Casual Viewer,3,6.04,20,18.12,3.62,14.5,1
+ORD00265,2024-03-11,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Blu-ray,HeroShelf,Europe,Fan,1,27.49,10,27.49,2.75,24.74,0
+ORD00323,2024-03-11,DC,Shazam! Fury of the Gods,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Casual Viewer,2,5.49,20,10.98,2.2,8.78,5
+ORD00040,2024-03-14,Marvel,Thor: Love and Thunder,Solo Hero,Blu-ray,Retail Store,North America,Family,1,26.24,20,26.24,5.25,20.99,0
+ORD00283,2024-03-16,DC,Aquaman,Solo Hero,Blu-ray,HeroShelf,Europe,Fan,2,24.99,5,49.98,2.5,47.48,0
+ORD00037,2024-03-17,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,HeroShelf,Latin America,Collector,2,17.99,15,35.98,5.4,30.58,0
+ORD00122,2024-03-19,DC,Black Adam,Solo Hero,Digital Rental,StreamFlix,Europe,Casual Viewer,2,5.76,15,11.52,1.73,9.79,2
+ORD00350,2024-03-22,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Casual Viewer,1,6.04,10,6.04,0.6,5.44,2
+ORD00328,2024-03-23,DC,Black Adam,Solo Hero,Digital Purchase,HeroShelf,Europe,Casual Viewer,1,14.99,5,14.99,0.75,14.24,0
+ORD00429,2024-03-23,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,North America,Collector,1,5.22,5,5.22,0.26,4.96,3
+ORD00423,2024-03-26,Marvel,Black Panther,Solo Hero,Digital Purchase,HeroShelf,Asia-Pacific,Casual Viewer,3,13.49,0,40.47,0.0,40.47,0
+ORD00466,2024-04-01,Marvel,Avengers: Endgame,Team-Up,Digital Rental,CineNow,Latin America,Collector,3,5.76,20,17.28,3.46,13.82,3
+ORD00433,2024-04-02,Marvel,Spider-Man: No Way Home,Solo Hero,Merchandise,Online Marketplace,Asia-Pacific,Fan,1,18.99,15,18.99,2.85,16.14,0
+ORD00365,2024-04-03,DC,Black Adam,Solo Hero,Digital Rental,HeroShelf,Europe,Family,1,6.04,20,6.04,1.21,4.83,7
+ORD00101,2024-04-07,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,HeroShelf,North America,Fan,2,4.94,10,9.88,0.99,8.89,2
+ORD00302,2024-04-08,Marvel,Black Panther,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,2,22.49,20,44.98,9.0,35.98,0
+ORD00339,2024-04-11,Marvel,Black Panther,Solo Hero,Digital Rental,StreamFlix,Latin America,Casual Viewer,1,4.94,20,4.94,0.99,3.95,7
+ORD00024,2024-04-12,DC,The Batman,Solo Hero,Digital Purchase,HeroShelf,Europe,Fan,1,14.24,25,14.24,3.56,10.68,0
+ORD00108,2024-04-12,DC,The Dark Knight,Solo Hero,Digital Purchase,StreamFlix,North America,Collector,2,16.49,10,32.98,3.3,29.68,0
+ORD00043,2024-04-13,DC,The Suicide Squad,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Casual Viewer,1,5.22,10,5.22,0.52,4.7,3
+ORD00256,2024-04-13,DC,Black Adam,Solo Hero,Digital Rental,StreamFlix,North America,Casual Viewer,1,4.94,15,4.94,0.74,4.2,7
+ORD00190,2024-04-15,DC,Shazam! Fury of the Gods,Solo Hero,Blu-ray,Retail Store,Asia-Pacific,Fan,2,26.24,10,52.48,5.25,47.23,0
+ORD00088,2024-04-16,DC,Blue Beetle,Solo Hero,Digital Purchase,StreamFlix,North America,Casual Viewer,1,15.74,10,15.74,1.57,14.17,0
+ORD00119,2024-04-19,Marvel,The Marvels,Team-Up,Digital Purchase,CineNow,North America,Casual Viewer,2,16.49,10,32.98,3.3,29.68,0
+ORD00087,2024-04-21,DC,The Dark Knight,Solo Hero,Digital Rental,CineNow,Latin America,Casual Viewer,2,5.49,0,10.98,0.0,10.98,7
+ORD00112,2024-04-23,DC,The Batman,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,2,26.24,0,52.48,0.0,52.48,0
+ORD00279,2024-04-23,DC,Wonder Woman,Solo Hero,Digital Rental,StreamFlix,Latin America,Family,1,6.04,10,6.04,0.6,5.44,5
+ORD00311,2024-04-24,DC,Blue Beetle,Solo Hero,Digital Purchase,CineNow,North America,Family,2,16.49,5,32.98,1.65,31.33,0
+ORD00360,2024-04-25,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,StreamFlix,Europe,Fan,2,14.24,15,28.48,4.27,24.21,0
+ORD00069,2024-04-26,DC,Black Adam,Solo Hero,Blu-ray,Retail Store,Asia-Pacific,Collector,1,27.49,0,27.49,0.0,27.49,0
+ORD00394,2024-04-27,DC,Aquaman,Solo Hero,Digital Rental,CineNow,North America,Fan,1,5.76,15,5.76,0.86,4.9,7
+ORD00198,2024-05-03,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,StreamFlix,Europe,Fan,1,14.24,15,14.24,2.14,12.1,0
+ORD00437,2024-05-03,Marvel,Avengers: Endgame,Team-Up,Blu-ray,Online Marketplace,North America,Fan,1,24.99,5,24.99,1.25,23.74,0
+ORD00121,2024-05-05,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,StreamFlix,Europe,Family,1,15.74,30,15.74,4.72,11.02,0
+ORD00310,2024-05-06,Marvel,Avengers: Endgame,Team-Up,Digital Rental,CineNow,North America,Casual Viewer,1,5.22,20,5.22,1.04,4.18,1
+ORD00359,2024-05-06,Marvel,Avengers: Endgame,Team-Up,Blu-ray,HeroShelf,Europe,Collector,1,26.24,5,26.24,1.31,24.93,0
+ORD00060,2024-05-09,DC,The Dark Knight,Solo Hero,Digital Rental,StreamFlix,North America,Fan,1,5.76,10,5.76,0.58,5.18,3
+ORD00453,2024-05-09,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Fan,1,6.04,0,6.04,0.0,6.04,3
+ORD00143,2024-05-12,Marvel,The Marvels,Team-Up,Digital Purchase,StreamFlix,Latin America,Collector,2,16.49,0,32.98,0.0,32.98,0
+ORD00254,2024-05-16,Marvel,The Marvels,Team-Up,Digital Purchase,StreamFlix,Europe,Collector,1,16.49,5,16.49,0.82,15.67,0
+ORD00398,2024-05-18,DC,Wonder Woman,Solo Hero,Digital Purchase,HeroShelf,Asia-Pacific,Collector,2,15.74,30,31.48,9.44,22.04,0
+ORD00072,2024-05-19,Marvel,Avengers: Endgame,Team-Up,Blu-ray,Online Marketplace,Latin America,Casual Viewer,1,27.49,10,27.49,2.75,24.74,0
+ORD00252,2024-05-19,DC,The Batman,Solo Hero,Digital Rental,CineNow,North America,Family,1,4.94,20,4.94,0.99,3.95,1
+ORD00158,2024-05-20,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,CineNow,Europe,Fan,1,5.22,10,5.22,0.52,4.7,7
+ORD00004,2024-05-21,DC,Black Adam,Solo Hero,Merchandise,Online Marketplace,North America,Fan,1,18.99,0,18.99,0.0,18.99,0
+ORD00164,2024-05-21,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,StreamFlix,North America,Casual Viewer,1,6.04,10,6.04,0.6,5.44,5
+ORD00234,2024-05-21,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,CineNow,North America,Family,4,16.49,15,65.96,9.89,56.07,0
+ORD00296,2024-05-21,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,Asia-Pacific,Casual Viewer,3,5.49,20,16.47,3.29,13.18,5
+ORD00083,2024-05-23,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,CineNow,Europe,Fan,1,14.24,20,14.24,2.85,11.39,0
+ORD00460,2024-05-25,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Merchandise,HeroShelf,North America,Casual Viewer,2,20.99,0,41.98,0.0,41.98,0
+ORD00467,2024-05-27,DC,The Batman,Solo Hero,Digital Rental,HeroShelf,Asia-Pacific,Family,2,5.76,5,11.52,0.58,10.94,3
+ORD00402,2024-06-01,Marvel,The Marvels,Team-Up,Digital Rental,CineNow,North America,Family,1,5.49,5,5.49,0.27,5.22,2
+ORD00381,2024-06-04,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,HeroShelf,North America,Collector,1,16.49,20,16.49,3.3,13.19,0
+ORD00498,2024-06-04,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,Latin America,Family,1,5.76,5,5.76,0.29,5.47,2
+ORD00175,2024-06-05,Marvel,Black Panther,Solo Hero,Digital Purchase,HeroShelf,Europe,Collector,1,16.49,30,16.49,4.95,11.54,0
+ORD00326,2024-06-05,DC,Blue Beetle,Solo Hero,Digital Purchase,HeroShelf,North America,Fan,4,13.49,5,53.96,2.7,51.26,0
+ORD00107,2024-06-06,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Blu-ray,HeroShelf,Latin America,Casual Viewer,1,22.49,0,22.49,0.0,22.49,0
+ORD00388,2024-06-07,DC,The Dark Knight,Solo Hero,Digital Rental,CineNow,Asia-Pacific,Fan,1,5.49,15,5.49,0.82,4.67,2
+ORD00022,2024-06-08,DC,Wonder Woman,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,1,19.99,5,19.99,1.0,18.99,0
+ORD00336,2024-06-08,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Blu-ray,HeroShelf,Europe,Family,1,27.49,0,27.49,0.0,27.49,0
+ORD00391,2024-06-08,Marvel,The Marvels,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Casual Viewer,1,5.76,0,5.76,0.0,5.76,5
+ORD00491,2024-06-09,Marvel,The Marvels,Team-Up,Digital Purchase,CineNow,Europe,Collector,5,13.49,20,67.45,13.49,53.96,0
+ORD00278,2024-06-10,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,Europe,Fan,2,5.76,15,11.52,1.73,9.79,7
+ORD00179,2024-06-11,DC,Blue Beetle,Solo Hero,Merchandise,Retail Store,North America,Family,2,18.99,5,37.98,1.9,36.08,0
+ORD00493,2024-06-11,DC,The Dark Knight,Solo Hero,Digital Purchase,StreamFlix,North America,Fan,4,13.49,10,53.96,5.4,48.56,0
+ORD00147,2024-06-13,Marvel,Black Panther,Solo Hero,Digital Rental,StreamFlix,Latin America,Fan,1,5.49,15,5.49,0.82,4.67,7
+ORD00258,2024-06-14,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,StreamFlix,Asia-Pacific,Family,1,15.74,15,15.74,2.36,13.38,0
+ORD00203,2024-06-15,Marvel,The Marvels,Team-Up,Digital Rental,CineNow,Europe,Casual Viewer,2,4.94,5,9.88,0.49,9.39,1
+ORD00456,2024-06-17,Marvel,The Marvels,Team-Up,Digital Rental,StreamFlix,Europe,Collector,1,6.04,0,6.04,0.0,6.04,1
+ORD00246,2024-06-19,DC,The Batman,Solo Hero,Blu-ray,Retail Store,North America,Family,2,22.49,15,44.98,6.75,38.23,0
+ORD00013,2024-06-20,DC,Wonder Woman,Solo Hero,Digital Rental,HeroShelf,Asia-Pacific,Collector,2,5.22,10,10.44,1.04,9.4,5
+ORD00207,2024-06-20,Marvel,Avengers: Endgame,Team-Up,Blu-ray,Online Marketplace,Europe,Fan,2,22.49,10,44.98,4.5,40.48,0
+ORD00284,2024-06-20,DC,Black Adam,Solo Hero,Digital Purchase,StreamFlix,North America,Family,2,16.49,15,32.98,4.95,28.03,0
+ORD00171,2024-06-21,DC,The Batman,Solo Hero,Digital Purchase,StreamFlix,Europe,Casual Viewer,2,16.49,0,32.98,0.0,32.98,0
+ORD00206,2024-06-22,DC,Black Adam,Solo Hero,Digital Purchase,HeroShelf,Europe,Casual Viewer,1,16.49,10,16.49,1.65,14.84,0
+ORD00092,2024-06-25,DC,Shazam! Fury of the Gods,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Family,2,5.49,5,10.98,0.55,10.43,3
+ORD00271,2024-06-25,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,CineNow,North America,Fan,4,5.49,20,21.96,4.39,17.57,1
+ORD00213,2024-06-26,Marvel,The Marvels,Team-Up,Merchandise,HeroShelf,Europe,Family,2,18.99,5,37.98,1.9,36.08,0
+ORD00351,2024-06-27,DC,Shazam! Fury of the Gods,Solo Hero,Digital Rental,HeroShelf,Europe,Fan,2,5.49,15,10.98,1.65,9.33,5
+ORD00034,2024-07-02,Marvel,Black Panther,Solo Hero,Digital Purchase,CineNow,North America,Fan,1,14.24,10,14.24,1.42,12.82,0
+ORD00228,2024-07-07,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,North America,Casual Viewer,1,6.04,5,6.04,0.3,5.74,2
+ORD00130,2024-07-08,DC,Aquaman,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,1,19.99,15,19.99,3.0,16.99,0
+ORD00292,2024-07-09,Marvel,Black Panther,Solo Hero,Merchandise,HeroShelf,Europe,Family,1,18.99,0,18.99,0.0,18.99,0
+ORD00071,2024-07-12,Marvel,The Marvels,Team-Up,Merchandise,HeroShelf,Europe,Fan,3,18.99,10,56.97,5.7,51.27,0
+ORD00358,2024-07-13,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,CineNow,North America,Fan,2,16.49,10,32.98,3.3,29.68,0
+ORD00321,2024-07-14,Marvel,Avengers: Endgame,Team-Up,Digital Rental,CineNow,Asia-Pacific,Collector,1,6.04,10,6.04,0.6,5.44,3
+ORD00155,2024-07-16,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,Europe,Family,1,5.76,15,5.76,0.86,4.9,5
+ORD00163,2024-07-16,DC,The Batman,Solo Hero,Digital Rental,StreamFlix,North America,Fan,2,5.76,20,11.52,2.3,9.22,5
+ORD00316,2024-07-18,DC,The Batman,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,2,4.94,10,9.88,0.99,8.89,2
+ORD00012,2024-07-21,DC,Blue Beetle,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,1,24.99,25,24.99,6.25,18.74,0
+ORD00468,2024-07-21,DC,The Suicide Squad,Team-Up,Merchandise,HeroShelf,North America,Fan,1,20.99,15,20.99,3.15,17.84,0
+ORD00222,2024-07-22,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,StreamFlix,Europe,Family,1,16.49,5,16.49,0.82,15.67,0
+ORD00463,2024-07-22,Marvel,The Marvels,Team-Up,Digital Purchase,CineNow,Asia-Pacific,Collector,2,16.49,10,32.98,3.3,29.68,0
+ORD00061,2024-07-23,DC,Shazam! Fury of the Gods,Solo Hero,Blu-ray,Online Marketplace,Asia-Pacific,Casual Viewer,1,26.24,10,26.24,2.62,23.62,0
+ORD00366,2024-07-24,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Blu-ray,HeroShelf,Europe,Casual Viewer,1,22.49,10,22.49,2.25,20.24,0
+ORD00172,2024-07-25,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,1,27.49,30,27.49,8.25,19.24,0
+ORD00424,2024-08-04,DC,Aquaman,Solo Hero,Merchandise,HeroShelf,North America,Fan,4,20.99,30,83.96,25.19,58.77,0
+ORD00099,2024-08-07,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Merchandise,HeroShelf,Europe,Casual Viewer,1,20.99,5,20.99,1.05,19.94,0
+ORD00098,2024-08-09,DC,Shazam! Fury of the Gods,Solo Hero,Merchandise,Retail Store,Latin America,Family,1,21.99,0,21.99,0.0,21.99,0
+ORD00080,2024-08-14,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Casual Viewer,1,5.22,10,5.22,0.52,4.7,3
+ORD00184,2024-08-14,Marvel,The Marvels,Team-Up,Merchandise,Online Marketplace,North America,Collector,2,21.99,5,43.98,2.2,41.78,0
+ORD00356,2024-08-14,DC,The Batman,Solo Hero,Digital Rental,StreamFlix,North America,Casual Viewer,2,5.76,10,11.52,1.15,10.37,5
+ORD00056,2024-08-16,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,CineNow,North America,Collector,1,5.49,20,5.49,1.1,4.39,2
+ORD00052,2024-08-17,DC,Aquaman,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,1,24.99,10,24.99,2.5,22.49,0
+ORD00247,2024-08-17,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Blu-ray,Online Marketplace,North America,Collector,2,22.49,25,44.98,11.24,33.74,0
+ORD00204,2024-08-19,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,HeroShelf,Asia-Pacific,Casual Viewer,1,13.49,10,13.49,1.35,12.14,0
+ORD00448,2024-08-20,Marvel,The Marvels,Team-Up,Digital Purchase,CineNow,Europe,Family,1,16.49,15,16.49,2.47,14.02,0
+ORD00151,2024-08-22,Marvel,Black Panther,Solo Hero,Merchandise,Retail Store,Asia-Pacific,Collector,5,17.99,20,89.95,17.99,71.96,0
+ORD00289,2024-08-22,Marvel,Thor: Love and Thunder,Solo Hero,Blu-ray,Retail Store,Europe,Family,3,23.74,5,71.22,3.56,67.66,0
+ORD00076,2024-08-24,Marvel,Black Panther,Solo Hero,Digital Rental,HeroShelf,North America,Fan,1,5.49,15,5.49,0.82,4.67,5
+ORD00324,2024-08-24,DC,Black Adam,Solo Hero,Digital Rental,StreamFlix,North America,Fan,2,5.49,15,10.98,1.65,9.33,3
+ORD00009,2024-08-25,DC,Wonder Woman,Solo Hero,Digital Purchase,CineNow,Europe,Fan,1,15.74,15,15.74,2.36,13.38,0
+ORD00212,2024-08-26,DC,Blue Beetle,Solo Hero,Digital Purchase,HeroShelf,North America,Fan,2,13.49,25,26.98,6.75,20.23,0
+ORD00067,2024-09-01,Marvel,Avengers: Endgame,Team-Up,Blu-ray,HeroShelf,Latin America,Fan,1,24.99,25,24.99,6.25,18.74,0
+ORD00215,2024-09-01,Marvel,The Marvels,Team-Up,Merchandise,Retail Store,Latin America,Fan,3,19.99,0,59.97,0.0,59.97,0
+ORD00230,2024-09-01,DC,Shazam! Fury of the Gods,Solo Hero,Merchandise,Online Marketplace,Europe,Collector,1,21.99,15,21.99,3.3,18.69,0
+ORD00170,2024-09-04,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,CineNow,North America,Fan,1,16.49,5,16.49,0.82,15.67,0
+ORD00382,2024-09-04,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Blu-ray,HeroShelf,Latin America,Fan,2,24.99,10,49.98,5.0,44.98,0
+ORD00361,2024-09-05,DC,Wonder Woman,Solo Hero,Digital Purchase,StreamFlix,North America,Collector,1,14.24,10,14.24,1.42,12.82,0
+ORD00389,2024-09-08,DC,Blue Beetle,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Fan,2,5.76,10,11.52,1.15,10.37,7
+ORD00421,2024-09-08,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,StreamFlix,Asia-Pacific,Casual Viewer,1,14.99,20,14.99,3.0,11.99,0
+ORD00229,2024-09-10,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Family,1,4.94,20,4.94,0.99,3.95,3
+ORD00396,2024-09-10,DC,Blue Beetle,Solo Hero,Digital Purchase,HeroShelf,Europe,Casual Viewer,2,13.49,10,26.98,2.7,24.28,0
+ORD00325,2024-09-12,Marvel,Black Panther,Solo Hero,Merchandise,Retail Store,North America,Collector,1,20.99,0,20.99,0.0,20.99,0
+ORD00063,2024-09-16,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,StreamFlix,Latin America,Fan,1,4.94,0,4.94,0.0,4.94,2
+ORD00240,2024-09-16,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,HeroShelf,Asia-Pacific,Casual Viewer,1,20.99,5,20.99,1.05,19.94,0
+ORD00407,2024-09-17,Marvel,Thor: Love and Thunder,Solo Hero,Digital Rental,StreamFlix,North America,Fan,2,5.49,15,10.98,1.65,9.33,5
+ORD00441,2024-09-17,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,CineNow,North America,Fan,1,15.74,20,15.74,3.15,12.59,0
+ORD00334,2024-09-20,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,Retail Store,North America,Collector,1,18.99,15,18.99,2.85,16.14,0
+ORD00462,2024-09-20,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,StreamFlix,Latin America,Fan,2,14.24,10,28.48,2.85,25.63,0
+ORD00411,2024-09-22,DC,Blue Beetle,Solo Hero,Digital Purchase,CineNow,North America,Fan,1,15.74,5,15.74,0.79,14.95,0
+ORD00319,2024-09-23,DC,Wonder Woman,Solo Hero,Digital Rental,StreamFlix,Europe,Casual Viewer,2,6.04,20,12.08,2.42,9.66,3
+ORD00346,2024-09-23,DC,Wonder Woman,Solo Hero,Blu-ray,Retail Store,North America,Collector,1,26.24,15,26.24,3.94,22.3,0
+ORD00105,2024-09-25,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,CineNow,North America,Family,2,14.99,15,29.98,4.5,25.48,0
+ORD00062,2024-09-26,Marvel,The Marvels,Team-Up,Blu-ray,HeroShelf,Europe,Family,3,27.49,10,82.47,8.25,74.22,0
+ORD00249,2024-10-01,Marvel,Black Panther,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Fan,1,6.04,20,6.04,1.21,4.83,1
+ORD00274,2024-10-02,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,StreamFlix,Europe,Fan,1,5.76,10,5.76,0.58,5.18,7
+ORD00141,2024-10-03,DC,Blue Beetle,Solo Hero,Digital Rental,StreamFlix,Europe,Fan,3,5.22,0,15.66,0.0,15.66,5
+ORD00145,2024-10-04,Marvel,Spider-Man: No Way Home,Solo Hero,Blu-ray,Retail Store,North America,Casual Viewer,1,27.49,20,27.49,5.5,21.99,0
+ORD00345,2024-10-05,DC,Black Adam,Solo Hero,Digital Purchase,HeroShelf,Asia-Pacific,Fan,1,13.49,0,13.49,0.0,13.49,0
+ORD00011,2024-10-07,DC,Wonder Woman,Solo Hero,Digital Purchase,HeroShelf,North America,Family,2,13.49,20,26.98,5.4,21.58,0
+ORD00242,2024-10-07,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Blu-ray,Retail Store,Europe,Family,3,23.74,10,71.22,7.12,64.1,0
+ORD00392,2024-10-08,DC,The Dark Knight,Solo Hero,Digital Rental,StreamFlix,North America,Casual Viewer,1,6.04,5,6.04,0.3,5.74,1
+ORD00157,2024-10-09,Marvel,The Marvels,Team-Up,Digital Rental,StreamFlix,Europe,Fan,2,6.04,10,12.08,1.21,10.87,2
+ORD00251,2024-10-09,Marvel,The Marvels,Team-Up,Digital Purchase,StreamFlix,Asia-Pacific,Fan,1,15.74,10,15.74,1.57,14.17,0
+ORD00255,2024-10-10,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,StreamFlix,North America,Fan,2,6.04,0,12.08,0.0,12.08,7
+ORD00315,2024-10-10,DC,Black Adam,Solo Hero,Digital Rental,CineNow,Asia-Pacific,Fan,1,5.76,10,5.76,0.58,5.18,2
+ORD00376,2024-10-12,Marvel,The Marvels,Team-Up,Digital Purchase,CineNow,Europe,Collector,1,13.49,10,13.49,1.35,12.14,0
+ORD00041,2024-10-15,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,HeroShelf,Europe,Fan,4,4.94,15,19.76,2.96,16.8,3
+ORD00475,2024-10-15,Marvel,Black Panther,Solo Hero,Digital Rental,StreamFlix,North America,Family,2,4.94,20,9.88,1.98,7.9,2
+ORD00333,2024-10-17,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Merchandise,Retail Store,Latin America,Collector,2,17.99,10,35.98,3.6,32.38,0
+ORD00299,2024-10-18,Marvel,Thor: Love and Thunder,Solo Hero,Digital Rental,StreamFlix,North America,Casual Viewer,1,5.22,10,5.22,0.52,4.7,2
+ORD00239,2024-10-19,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,HeroShelf,North America,Collector,2,5.49,0,10.98,0.0,10.98,1
+ORD00291,2024-10-20,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,CineNow,North America,Casual Viewer,5,16.49,10,82.45,8.24,74.21,0
+ORD00348,2024-10-20,DC,Wonder Woman,Solo Hero,Digital Purchase,HeroShelf,North America,Casual Viewer,1,16.49,10,16.49,1.65,14.84,0
+ORD00006,2024-10-25,DC,Wonder Woman,Solo Hero,Digital Rental,StreamFlix,North America,Collector,2,5.49,15,10.98,1.65,9.33,5
+ORD00058,2024-10-25,Marvel,Thor: Love and Thunder,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,1,6.04,20,6.04,1.21,4.83,7
+ORD00167,2024-10-25,DC,The Dark Knight,Solo Hero,Merchandise,Online Marketplace,Europe,Family,2,19.99,30,39.98,11.99,27.99,0
+ORD00487,2024-10-25,Marvel,Avengers: Endgame,Team-Up,Merchandise,HeroShelf,North America,Casual Viewer,1,19.99,30,19.99,6.0,13.99,0
+ORD00095,2024-11-01,DC,The Suicide Squad,Team-Up,Digital Purchase,StreamFlix,North America,Fan,1,13.49,5,13.49,0.67,12.82,0
+ORD00362,2024-11-01,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Merchandise,Retail Store,Europe,Fan,4,17.99,0,71.96,0.0,71.96,0
+ORD00408,2024-11-01,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,StreamFlix,North America,Casual Viewer,2,5.49,5,10.98,0.55,10.43,5
+ORD00469,2024-11-01,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,StreamFlix,Europe,Casual Viewer,1,13.49,20,13.49,2.7,10.79,0
+ORD00426,2024-11-02,DC,The Dark Knight,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,1,6.04,5,6.04,0.3,5.74,1
+ORD00209,2024-11-03,DC,The Dark Knight,Solo Hero,Merchandise,Online Marketplace,Latin America,Casual Viewer,4,18.99,25,75.96,18.99,56.97,0
+ORD00312,2024-11-04,DC,Aquaman,Solo Hero,Digital Rental,HeroShelf,North America,Fan,4,5.49,20,21.96,4.39,17.57,1
+ORD00416,2024-11-06,DC,The Batman,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Family,5,6.04,15,30.2,4.53,25.67,3
+ORD00176,2024-11-07,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Blu-ray,Retail Store,North America,Fan,1,26.24,5,26.24,1.31,24.93,0
+ORD00118,2024-11-08,DC,The Dark Knight,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,3,17.99,20,53.97,10.79,43.18,0
+ORD00397,2024-11-08,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Casual Viewer,1,6.04,15,6.04,0.91,5.13,5
+ORD00307,2024-11-09,Marvel,The Marvels,Team-Up,Blu-ray,Retail Store,Europe,Fan,1,27.49,20,27.49,5.5,21.99,0
+ORD00374,2024-11-10,DC,Black Adam,Solo Hero,Digital Purchase,CineNow,Asia-Pacific,Fan,1,15.74,20,15.74,3.15,12.59,0
+ORD00205,2024-11-11,DC,The Batman,Solo Hero,Merchandise,Retail Store,North America,Family,1,17.99,15,17.99,2.7,15.29,0
+ORD00081,2024-11-15,DC,Shazam! Fury of the Gods,Solo Hero,Digital Rental,StreamFlix,North America,Fan,1,5.22,15,5.22,0.78,4.44,2
+ORD00133,2024-11-15,Marvel,Black Panther,Solo Hero,Merchandise,Retail Store,North America,Casual Viewer,1,18.99,10,18.99,1.9,17.09,0
+ORD00306,2024-11-15,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,1,5.76,20,5.76,1.15,4.61,2
+ORD00308,2024-11-19,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,StreamFlix,North America,Fan,1,5.22,15,5.22,0.78,4.44,7
+ORD00379,2024-11-19,Marvel,Avengers: Endgame,Team-Up,Merchandise,HeroShelf,North America,Casual Viewer,1,19.99,10,19.99,2.0,17.99,0
+ORD00393,2024-11-19,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,HeroShelf,Asia-Pacific,Fan,1,5.22,5,5.22,0.26,4.96,3
+ORD00219,2024-11-20,DC,The Batman,Solo Hero,Merchandise,Retail Store,Europe,Collector,2,17.99,10,35.98,3.6,32.38,0
+ORD00400,2024-11-20,DC,Shazam! Fury of the Gods,Solo Hero,Merchandise,Online Marketplace,Asia-Pacific,Collector,3,18.99,25,56.97,14.24,42.73,0
+ORD00090,2024-11-21,DC,Black Adam,Solo Hero,Digital Purchase,StreamFlix,Latin America,Fan,1,15.74,15,15.74,2.36,13.38,0
+ORD00250,2024-11-21,Marvel,Avengers: Endgame,Team-Up,Merchandise,Retail Store,North America,Fan,2,18.99,10,37.98,3.8,34.18,0
+ORD00459,2024-11-26,Marvel,The Marvels,Team-Up,Blu-ray,HeroShelf,North America,Fan,3,22.49,5,67.47,3.37,64.1,0
+ORD00485,2024-11-26,DC,Shazam! Fury of the Gods,Solo Hero,Blu-ray,Retail Store,Asia-Pacific,Collector,1,24.99,5,24.99,1.25,23.74,0
+ORD00173,2024-11-27,Marvel,Spider-Man: No Way Home,Solo Hero,Blu-ray,Online Marketplace,North America,Collector,1,26.24,5,26.24,1.31,24.93,0
+ORD00428,2024-12-02,DC,Blue Beetle,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,1,19.99,5,19.99,1.0,18.99,0
+ORD00221,2024-12-03,Marvel,The Marvels,Team-Up,Digital Purchase,StreamFlix,Europe,Casual Viewer,4,16.49,0,65.96,0.0,65.96,0
+ORD00298,2024-12-03,DC,Black Adam,Solo Hero,Merchandise,Retail Store,Asia-Pacific,Family,2,17.99,0,35.98,0.0,35.98,0
+ORD00188,2024-12-04,DC,Aquaman,Solo Hero,Digital Rental,HeroShelf,Asia-Pacific,Fan,5,4.94,15,24.7,3.71,20.99,1
+ORD00142,2024-12-06,Marvel,Spider-Man: No Way Home,Solo Hero,Blu-ray,HeroShelf,Asia-Pacific,Fan,1,23.74,15,23.74,3.56,20.18,0
+ORD00269,2024-12-06,DC,The Batman,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,4,21.99,25,87.96,21.99,65.97,0
+ORD00305,2024-12-06,DC,Shazam! Fury of the Gods,Solo Hero,Blu-ray,HeroShelf,North America,Fan,2,26.24,0,52.48,0.0,52.48,0
+ORD00165,2024-12-07,DC,Shazam! Fury of the Gods,Solo Hero,Merchandise,Retail Store,Asia-Pacific,Casual Viewer,1,19.99,10,19.99,2.0,17.99,0
+ORD00177,2024-12-07,DC,Wonder Woman,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,1,21.99,5,21.99,1.1,20.89,0
+ORD00248,2024-12-07,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,Europe,Fan,1,5.76,20,5.76,1.15,4.61,7
+ORD00216,2024-12-08,Marvel,Black Panther,Solo Hero,Blu-ray,Retail Store,North America,Casual Viewer,1,22.49,10,22.49,2.25,20.24,0
+ORD00375,2024-12-08,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Merchandise,Online Marketplace,North America,Collector,2,20.99,15,41.98,6.3,35.68,0
+ORD00005,2024-12-09,DC,The Dark Knight,Solo Hero,Digital Purchase,StreamFlix,Asia-Pacific,Casual Viewer,2,16.49,20,32.98,6.6,26.38,0
+ORD00218,2024-12-09,DC,Aquaman,Solo Hero,Digital Purchase,HeroShelf,Europe,Casual Viewer,1,14.99,15,14.99,2.25,12.74,0
+ORD00238,2024-12-09,Marvel,The Marvels,Team-Up,Merchandise,HeroShelf,North America,Family,1,17.99,25,17.99,4.5,13.49,0
+ORD00281,2024-12-09,Marvel,The Marvels,Team-Up,Digital Purchase,StreamFlix,Asia-Pacific,Collector,3,13.49,25,40.47,10.12,30.35,0
+ORD00330,2024-12-09,DC,The Batman,Solo Hero,Merchandise,Online Marketplace,Asia-Pacific,Family,2,20.99,10,41.98,4.2,37.78,0
+ORD00363,2024-12-09,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Merchandise,Online Marketplace,Europe,Casual Viewer,1,21.99,15,21.99,3.3,18.69,0
+ORD00166,2024-12-10,Marvel,Spider-Man: No Way Home,Solo Hero,Blu-ray,Retail Store,North America,Casual Viewer,1,23.74,10,23.74,2.37,21.37,0
+ORD00352,2024-12-12,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,2,4.94,0,9.88,0.0,9.88,1
+ORD00153,2024-12-13,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,StreamFlix,North America,Casual Viewer,1,14.24,20,14.24,2.85,11.39,0
+ORD00002,2024-12-14,DC,Wonder Woman,Solo Hero,Blu-ray,Online Marketplace,Europe,Casual Viewer,1,27.49,15,27.49,4.12,23.37,0
+ORD00007,2024-12-14,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,CineNow,Europe,Fan,1,5.49,20,5.49,1.1,4.39,5
+ORD00028,2024-12-15,Marvel,Black Panther,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,1,27.49,15,27.49,4.12,23.37,0
+ORD00050,2024-12-15,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,CineNow,Latin America,Casual Viewer,2,13.49,15,26.98,4.05,22.93,0
+ORD00226,2024-12-15,Marvel,Avengers: Endgame,Team-Up,Blu-ray,Online Marketplace,Asia-Pacific,Family,2,22.49,15,44.98,6.75,38.23,0
+ORD00197,2024-12-16,Marvel,Black Panther,Solo Hero,Digital Rental,StreamFlix,Europe,Collector,1,5.76,20,5.76,1.15,4.61,1
+ORD00497,2024-12-17,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Blu-ray,HeroShelf,North America,Collector,1,22.49,5,22.49,1.12,21.37,0
+ORD00435,2024-12-18,DC,Shazam! Fury of the Gods,Solo Hero,Digital Rental,HeroShelf,North America,Collector,1,5.76,20,5.76,1.15,4.61,5
+ORD00016,2024-12-19,DC,Aquaman,Solo Hero,Digital Purchase,CineNow,North America,Casual Viewer,1,14.99,15,14.99,2.25,12.74,0
+ORD00039,2024-12-19,DC,The Suicide Squad,Team-Up,Blu-ray,Online Marketplace,Europe,Family,1,24.99,5,24.99,1.25,23.74,0
+ORD00442,2024-12-19,DC,Blue Beetle,Solo Hero,Merchandise,Online Marketplace,Latin America,Casual Viewer,1,18.99,15,18.99,2.85,16.14,0
+ORD00477,2024-12-19,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,HeroShelf,Asia-Pacific,Family,2,13.49,15,26.98,4.05,22.93,0
+ORD00191,2024-12-20,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,CineNow,North America,Casual Viewer,1,5.76,5,5.76,0.29,5.47,7
+ORD00373,2024-12-22,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,HeroShelf,Asia-Pacific,Family,1,14.99,25,14.99,3.75,11.24,0
+ORD00430,2024-12-22,Marvel,Black Panther,Solo Hero,Digital Purchase,StreamFlix,North America,Family,1,14.24,0,14.24,0.0,14.24,0
+ORD00104,2024-12-23,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,HeroShelf,North America,Casual Viewer,4,14.24,5,56.96,2.85,54.11,0
+ORD00106,2024-12-23,DC,The Dark Knight,Solo Hero,Digital Rental,StreamFlix,North America,Collector,2,4.94,15,9.88,1.48,8.4,5
+ORD00132,2024-12-23,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,CineNow,North America,Fan,1,6.04,5,6.04,0.3,5.74,1
+ORD00322,2024-12-23,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,HeroShelf,Asia-Pacific,Fan,2,17.99,5,35.98,1.8,34.18,0
+ORD00342,2024-12-23,Marvel,Black Panther,Solo Hero,Digital Rental,CineNow,Asia-Pacific,Casual Viewer,1,5.22,10,5.22,0.52,4.7,1
+ORD00128,2024-12-25,DC,Aquaman,Solo Hero,Merchandise,HeroShelf,North America,Casual Viewer,1,21.99,15,21.99,3.3,18.69,0
+ORD00159,2024-12-25,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,StreamFlix,Europe,Casual Viewer,1,14.24,30,14.24,4.27,9.97,0
+ORD00077,2024-12-26,DC,Blue Beetle,Solo Hero,Merchandise,HeroShelf,Asia-Pacific,Casual Viewer,1,21.99,15,21.99,3.3,18.69,0
+ORD00427,2024-12-27,Marvel,Thor: Love and Thunder,Solo Hero,Digital Purchase,StreamFlix,North America,Fan,1,14.99,0,14.99,0.0,14.99,0
+ORD00097,2025-01-02,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,Latin America,Fan,1,6.04,10,6.04,0.6,5.44,1
+ORD00383,2025-01-03,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Merchandise,Retail Store,Asia-Pacific,Fan,1,21.99,20,21.99,4.4,17.59,0
+ORD00419,2025-01-03,DC,Wonder Woman,Solo Hero,Merchandise,Online Marketplace,Europe,Collector,1,21.99,10,21.99,2.2,19.79,0
+ORD00288,2025-01-04,DC,Aquaman,Solo Hero,Blu-ray,Retail Store,Asia-Pacific,Collector,2,23.74,0,47.48,0.0,47.48,0
+ORD00478,2025-01-07,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,StreamFlix,Asia-Pacific,Fan,1,13.49,10,13.49,1.35,12.14,0
+ORD00217,2025-01-08,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,StreamFlix,Europe,Casual Viewer,1,14.24,0,14.24,0.0,14.24,0
+ORD00187,2025-01-12,Marvel,The Marvels,Team-Up,Digital Rental,StreamFlix,Latin America,Collector,1,5.22,10,5.22,0.52,4.7,5
+ORD00146,2025-01-14,DC,Aquaman,Solo Hero,Digital Rental,CineNow,North America,Fan,1,5.49,0,5.49,0.0,5.49,3
+ORD00368,2025-01-19,DC,The Batman,Solo Hero,Merchandise,Online Marketplace,Europe,Fan,1,21.99,30,21.99,6.6,15.39,0
+ORD00055,2025-01-20,DC,The Suicide Squad,Team-Up,Digital Rental,HeroShelf,Europe,Casual Viewer,1,6.04,0,6.04,0.0,6.04,7
+ORD00027,2025-01-21,DC,The Suicide Squad,Team-Up,Digital Purchase,StreamFlix,North America,Fan,3,14.99,15,44.97,6.75,38.22,0
+ORD00403,2025-01-21,DC,Aquaman,Solo Hero,Digital Purchase,CineNow,North America,Casual Viewer,1,14.24,20,14.24,2.85,11.39,0
+ORD00270,2025-01-22,Marvel,Thor: Love and Thunder,Solo Hero,Digital Purchase,HeroShelf,North America,Casual Viewer,1,13.49,20,13.49,2.7,10.79,0
+ORD00484,2025-01-24,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,StreamFlix,Europe,Casual Viewer,1,6.04,15,6.04,0.91,5.13,2
+ORD00293,2025-01-25,Marvel,The Marvels,Team-Up,Digital Purchase,CineNow,Asia-Pacific,Collector,1,13.49,0,13.49,0.0,13.49,0
+ORD00267,2025-01-27,Marvel,Black Panther,Solo Hero,Digital Rental,CineNow,North America,Collector,2,5.49,15,10.98,1.65,9.33,1
+ORD00415,2025-02-01,DC,Wonder Woman,Solo Hero,Digital Purchase,StreamFlix,North America,Casual Viewer,5,14.24,0,71.2,0.0,71.2,0
+ORD00464,2025-02-02,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,CineNow,North America,Collector,1,5.22,20,5.22,1.04,4.18,7
+ORD00202,2025-02-03,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Blu-ray,Online Marketplace,Asia-Pacific,Casual Viewer,1,24.99,5,24.99,1.25,23.74,0
+ORD00111,2025-02-05,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,Retail Store,Europe,Fan,1,19.99,10,19.99,2.0,17.99,0
+ORD00277,2025-02-05,DC,The Suicide Squad,Team-Up,Merchandise,HeroShelf,Latin America,Casual Viewer,1,17.99,20,17.99,3.6,14.39,0
+ORD00139,2025-02-10,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,CineNow,North America,Collector,1,13.49,5,13.49,0.67,12.82,0
+ORD00263,2025-02-10,DC,Aquaman,Solo Hero,Digital Rental,StreamFlix,Europe,Fan,2,5.76,15,11.52,1.73,9.79,5
+ORD00241,2025-02-13,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,CineNow,North America,Casual Viewer,2,14.24,5,28.48,1.42,27.06,0
+ORD00343,2025-02-14,DC,Black Adam,Solo Hero,Digital Purchase,StreamFlix,North America,Casual Viewer,2,14.99,25,29.98,7.5,22.48,0
+ORD00114,2025-02-15,DC,Black Adam,Solo Hero,Digital Purchase,HeroShelf,Europe,Casual Viewer,1,14.24,25,14.24,3.56,10.68,0
+ORD00286,2025-02-15,Marvel,Avengers: Endgame,Team-Up,Merchandise,HeroShelf,North America,Casual Viewer,2,18.99,10,37.98,3.8,34.18,0
+ORD00131,2025-02-18,Marvel,Thor: Love and Thunder,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Fan,1,6.04,0,6.04,0.0,6.04,7
+ORD00431,2025-02-18,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,CineNow,North America,Casual Viewer,2,5.49,5,10.98,0.55,10.43,7
+ORD00116,2025-02-20,DC,Aquaman,Solo Hero,Digital Rental,StreamFlix,Latin America,Family,2,6.04,20,12.08,2.42,9.66,7
+ORD00140,2025-02-21,Marvel,The Marvels,Team-Up,Merchandise,HeroShelf,Europe,Fan,4,21.99,0,87.96,0.0,87.96,0
+ORD00259,2025-02-21,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Merchandise,Online Marketplace,Latin America,Fan,1,20.99,10,20.99,2.1,18.89,0
+ORD00008,2025-02-22,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,HeroShelf,North America,Collector,1,14.24,5,14.24,0.71,13.53,0
+ORD00332,2025-02-22,DC,Blue Beetle,Solo Hero,Merchandise,Retail Store,Latin America,Fan,1,21.99,0,21.99,0.0,21.99,0
+ORD00474,2025-02-26,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,StreamFlix,North America,Fan,2,14.24,5,28.48,1.42,27.06,0
+ORD00075,2025-02-27,DC,Wonder Woman,Solo Hero,Digital Rental,StreamFlix,Latin America,Fan,2,5.22,15,10.44,1.57,8.87,3
+ORD00109,2025-03-02,DC,Aquaman,Solo Hero,Digital Rental,StreamFlix,Europe,Collector,3,6.04,0,18.12,0.0,18.12,3
+ORD00073,2025-03-06,DC,Blue Beetle,Solo Hero,Digital Purchase,StreamFlix,Latin America,Fan,1,14.24,5,14.24,0.71,13.53,0
+ORD00357,2025-03-06,Marvel,The Marvels,Team-Up,Merchandise,HeroShelf,North America,Family,1,19.99,10,19.99,2.0,17.99,0
+ORD00436,2025-03-06,DC,The Batman,Solo Hero,Digital Rental,CineNow,Latin America,Casual Viewer,1,5.49,10,5.49,0.55,4.94,5
+ORD00193,2025-03-07,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Purchase,CineNow,Europe,Casual Viewer,2,15.74,15,31.48,4.72,26.76,0
+ORD00422,2025-03-07,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,StreamFlix,North America,Fan,1,14.24,10,14.24,1.42,12.82,0
+ORD00276,2025-03-09,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,Latin America,Casual Viewer,2,5.76,15,11.52,1.73,9.79,5
+ORD00395,2025-03-09,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Blu-ray,Retail Store,Europe,Fan,1,22.49,5,22.49,1.12,21.37,0
+ORD00174,2025-03-10,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,CineNow,Asia-Pacific,Casual Viewer,1,5.22,10,5.22,0.52,4.7,5
+ORD00137,2025-03-13,Marvel,Black Panther,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Fan,1,5.76,10,5.76,0.58,5.18,3
+ORD00232,2025-03-15,Marvel,The Marvels,Team-Up,Digital Rental,StreamFlix,North America,Fan,1,6.04,10,6.04,0.6,5.44,2
+ORD00313,2025-03-17,Marvel,Thor: Love and Thunder,Solo Hero,Digital Purchase,StreamFlix,Europe,Casual Viewer,3,15.74,5,47.22,2.36,44.86,0
+ORD00401,2025-03-18,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Merchandise,Retail Store,Asia-Pacific,Collector,1,18.99,10,18.99,1.9,17.09,0
+ORD00057,2025-03-19,Marvel,Avengers: Endgame,Team-Up,Merchandise,Retail Store,Asia-Pacific,Casual Viewer,2,21.99,15,43.98,6.6,37.38,0
+ORD00169,2025-03-21,DC,The Suicide Squad,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Collector,3,5.76,20,17.28,3.46,13.82,7
+ORD00200,2025-03-21,DC,Blue Beetle,Solo Hero,Digital Purchase,CineNow,Asia-Pacific,Family,1,15.74,5,15.74,0.79,14.95,0
+ORD00331,2025-03-21,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,CineNow,Asia-Pacific,Collector,1,6.04,10,6.04,0.6,5.44,2
+ORD00329,2025-03-22,Marvel,Spider-Man: No Way Home,Solo Hero,Merchandise,Retail Store,Europe,Fan,2,18.99,5,37.98,1.9,36.08,0
+ORD00476,2025-03-22,Marvel,The Marvels,Team-Up,Digital Rental,StreamFlix,North America,Casual Viewer,1,5.76,20,5.76,1.15,4.61,7
+ORD00136,2025-03-25,Marvel,The Marvels,Team-Up,Merchandise,Retail Store,Europe,Family,1,19.99,10,19.99,2.0,17.99,0
+ORD00196,2025-03-27,Marvel,Thor: Love and Thunder,Solo Hero,Digital Purchase,HeroShelf,Latin America,Fan,4,14.99,10,59.96,6.0,53.96,0
+ORD00447,2025-04-01,Marvel,Black Panther,Solo Hero,Digital Purchase,CineNow,Europe,Family,5,14.99,15,74.95,11.24,63.71,0
+ORD00367,2025-04-02,Marvel,The Marvels,Team-Up,Merchandise,Retail Store,North America,Fan,1,21.99,10,21.99,2.2,19.79,0
+ORD00353,2025-04-04,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,CineNow,Asia-Pacific,Fan,1,14.24,10,14.24,1.42,12.82,0
+ORD00390,2025-04-04,Marvel,Black Panther,Solo Hero,Merchandise,Online Marketplace,North America,Fan,2,19.99,0,39.98,0.0,39.98,0
+ORD00335,2025-04-05,DC,The Dark Knight,Solo Hero,Digital Rental,StreamFlix,North America,Casual Viewer,1,5.76,5,5.76,0.29,5.47,3
+ORD00070,2025-04-07,Marvel,The Marvels,Team-Up,Digital Purchase,StreamFlix,North America,Fan,2,15.74,20,31.48,6.3,25.18,0
+ORD00220,2025-04-08,DC,Blue Beetle,Solo Hero,Digital Rental,StreamFlix,Europe,Casual Viewer,1,4.94,5,4.94,0.25,4.69,7
+ORD00161,2025-04-09,DC,Wonder Woman,Solo Hero,Blu-ray,HeroShelf,North America,Fan,1,27.49,15,27.49,4.12,23.37,0
+ORD00347,2025-04-10,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,1,5.49,0,5.49,0.0,5.49,7
+ORD00138,2025-04-11,DC,Blue Beetle,Solo Hero,Digital Purchase,HeroShelf,Europe,Fan,2,14.24,10,28.48,2.85,25.63,0
+ORD00134,2025-04-12,DC,The Dark Knight,Solo Hero,Merchandise,HeroShelf,North America,Casual Viewer,1,17.99,10,17.99,1.8,16.19,0
+ORD00211,2025-04-13,DC,Aquaman,Solo Hero,Digital Rental,CineNow,North America,Collector,1,5.49,20,5.49,1.1,4.39,3
+ORD00483,2025-04-22,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,HeroShelf,North America,Collector,2,14.99,5,29.98,1.5,28.48,0
+ORD00378,2025-04-23,Marvel,Black Panther,Solo Hero,Blu-ray,Online Marketplace,Asia-Pacific,Casual Viewer,1,24.99,5,24.99,1.25,23.74,0
+ORD00065,2025-04-24,DC,Aquaman,Solo Hero,Merchandise,Online Marketplace,Latin America,Collector,1,20.99,20,20.99,4.2,16.79,0
+ORD00309,2025-04-25,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,StreamFlix,North America,Casual Viewer,1,5.22,10,5.22,0.52,4.7,3
+ORD00496,2025-04-25,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,StreamFlix,North America,Casual Viewer,1,16.49,5,16.49,0.82,15.67,0
+ORD00096,2025-05-02,DC,Wonder Woman,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Family,1,5.49,5,5.49,0.27,5.22,2
+ORD00045,2025-05-04,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,HeroShelf,North America,Casual Viewer,1,17.99,15,17.99,2.7,15.29,0
+ORD00285,2025-05-05,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,StreamFlix,Asia-Pacific,Fan,1,16.49,20,16.49,3.3,13.19,0
+ORD00035,2025-05-07,DC,Wonder Woman,Solo Hero,Merchandise,HeroShelf,North America,Fan,2,19.99,20,39.98,8.0,31.98,0
+ORD00078,2025-05-09,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,StreamFlix,Latin America,Casual Viewer,1,13.49,0,13.49,0.0,13.49,0
+ORD00051,2025-05-12,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,HeroShelf,Europe,Casual Viewer,1,14.99,0,14.99,0.0,14.99,0
+ORD00440,2025-05-12,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Merchandise,HeroShelf,Asia-Pacific,Collector,1,17.99,20,17.99,3.6,14.39,0
+ORD00115,2025-05-15,Marvel,Avengers: Endgame,Team-Up,Merchandise,HeroShelf,Europe,Family,1,20.99,20,20.99,4.2,16.79,0
+ORD00492,2025-05-15,Marvel,The Marvels,Team-Up,Merchandise,Retail Store,Asia-Pacific,Casual Viewer,2,20.99,10,41.98,4.2,37.78,0
+ORD00014,2025-05-17,Marvel,Avengers: Endgame,Team-Up,Digital Rental,CineNow,North America,Casual Viewer,1,4.94,0,4.94,0.0,4.94,3
+ORD00194,2025-05-17,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,CineNow,North America,Fan,1,13.49,15,13.49,2.02,11.47,0
+ORD00192,2025-05-18,Marvel,The Marvels,Team-Up,Blu-ray,Retail Store,North America,Collector,1,23.74,20,23.74,4.75,18.99,0
+ORD00455,2025-05-18,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,CineNow,Asia-Pacific,Casual Viewer,1,14.99,20,14.99,3.0,11.99,0
+ORD00320,2025-05-19,DC,Black Adam,Solo Hero,Merchandise,Retail Store,North America,Casual Viewer,1,20.99,10,20.99,2.1,18.89,0
+ORD00495,2025-05-20,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,StreamFlix,Europe,Fan,4,5.22,10,20.88,2.09,18.79,2
+ORD00410,2025-05-22,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,StreamFlix,North America,Collector,1,14.99,10,14.99,1.5,13.49,0
+ORD00500,2025-05-23,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,CineNow,North America,Collector,1,5.22,5,5.22,0.26,4.96,7
+ORD00185,2025-05-26,Marvel,The Marvels,Team-Up,Digital Rental,CineNow,Europe,Fan,3,5.49,0,16.47,0.0,16.47,2
+ORD00023,2025-05-27,Marvel,Avengers: Endgame,Team-Up,Blu-ray,HeroShelf,North America,Collector,2,24.99,15,49.98,7.5,42.48,0
+ORD00089,2025-05-27,Marvel,The Marvels,Team-Up,Digital Purchase,StreamFlix,Asia-Pacific,Casual Viewer,1,14.24,10,14.24,1.42,12.82,0
+ORD00148,2025-05-27,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,StreamFlix,North America,Fan,4,14.99,30,59.96,17.99,41.97,0
+ORD00412,2025-05-27,DC,The Batman,Solo Hero,Digital Rental,CineNow,Europe,Fan,1,4.94,10,4.94,0.49,4.45,7
+ORD00261,2025-06-03,DC,The Batman,Solo Hero,Blu-ray,Retail Store,Asia-Pacific,Collector,1,26.24,10,26.24,2.62,23.62,0
+ORD00295,2025-06-03,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Merchandise,Online Marketplace,Asia-Pacific,Fan,1,17.99,15,17.99,2.7,15.29,0
+ORD00340,2025-06-03,DC,The Suicide Squad,Team-Up,Digital Rental,StreamFlix,North America,Fan,2,5.76,20,11.52,2.3,9.22,5
+ORD00438,2025-06-03,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Merchandise,Retail Store,Europe,Casual Viewer,1,19.99,0,19.99,0.0,19.99,0
+ORD00471,2025-06-04,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Blu-ray,Retail Store,Europe,Fan,1,24.99,10,24.99,2.5,22.49,0
+ORD00262,2025-06-06,DC,Blue Beetle,Solo Hero,Blu-ray,Online Marketplace,Asia-Pacific,Family,1,24.99,0,24.99,0.0,24.99,0
+ORD00300,2025-06-07,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,Online Marketplace,Asia-Pacific,Casual Viewer,5,18.99,15,94.95,14.24,80.71,0
+ORD00452,2025-06-07,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,CineNow,North America,Fan,2,4.94,0,9.88,0.0,9.88,7
+ORD00236,2025-06-08,DC,The Batman,Solo Hero,Merchandise,Retail Store,Europe,Casual Viewer,1,17.99,15,17.99,2.7,15.29,0
+ORD00380,2025-06-09,Marvel,The Marvels,Team-Up,Digital Purchase,HeroShelf,North America,Family,3,13.49,10,40.47,4.05,36.42,0
+ORD00355,2025-06-10,Marvel,Avengers: Endgame,Team-Up,Digital Rental,CineNow,North America,Family,2,5.49,20,10.98,2.2,8.78,3
+ORD00449,2025-06-10,DC,Aquaman,Solo Hero,Blu-ray,Online Marketplace,North America,Casual Viewer,1,22.49,10,22.49,2.25,20.24,0
+ORD00489,2025-06-11,DC,The Batman,Solo Hero,Merchandise,HeroShelf,North America,Collector,2,18.99,0,37.98,0.0,37.98,0
+ORD00225,2025-06-13,Marvel,Spider-Man: No Way Home,Solo Hero,Merchandise,Retail Store,North America,Family,1,19.99,5,19.99,1.0,18.99,0
+ORD00488,2025-06-13,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Blu-ray,Retail Store,Europe,Casual Viewer,2,22.49,15,44.98,6.75,38.23,0
+ORD00337,2025-06-14,DC,Shazam! Fury of the Gods,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,1,5.49,0,5.49,0.0,5.49,7
+ORD00093,2025-06-15,Marvel,The Marvels,Team-Up,Digital Rental,HeroShelf,Asia-Pacific,Collector,2,4.94,0,9.88,0.0,9.88,2
+ORD00297,2025-06-15,Marvel,Thor: Love and Thunder,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,4,27.49,0,109.96,0.0,109.96,0
+ORD00227,2025-06-19,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,CineNow,Europe,Casual Viewer,4,5.22,10,20.88,2.09,18.79,1
+ORD00275,2025-06-27,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,HeroShelf,Europe,Fan,1,13.49,15,13.49,2.02,11.47,0
+ORD00450,2025-06-27,DC,The Suicide Squad,Team-Up,Digital Rental,CineNow,North America,Family,1,6.04,0,6.04,0.0,6.04,1
+ORD00129,2025-07-01,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,1,20.99,15,20.99,3.15,17.84,0
+ORD00244,2025-07-01,DC,The Suicide Squad,Team-Up,Merchandise,Online Marketplace,Europe,Collector,3,20.99,20,62.97,12.59,50.38,0
+ORD00257,2025-07-03,DC,The Batman,Solo Hero,Blu-ray,HeroShelf,North America,Fan,1,23.74,30,23.74,7.12,16.62,0
+ORD00490,2025-07-06,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,CineNow,Asia-Pacific,Casual Viewer,3,14.24,10,42.72,4.27,38.45,0
+ORD00117,2025-07-07,Marvel,The Marvels,Team-Up,Digital Purchase,HeroShelf,Europe,Casual Viewer,2,14.24,5,28.48,1.42,27.06,0
+ORD00110,2025-07-08,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Blu-ray,Retail Store,Latin America,Fan,1,23.74,20,23.74,4.75,18.99,0
+ORD00018,2025-07-09,DC,The Batman,Solo Hero,Digital Rental,StreamFlix,Europe,Fan,1,5.49,20,5.49,1.1,4.39,7
+ORD00472,2025-07-10,DC,The Dark Knight,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,2,26.24,10,52.48,5.25,47.23,0
+ORD00021,2025-07-11,DC,Wonder Woman,Solo Hero,Digital Rental,StreamFlix,Asia-Pacific,Casual Viewer,3,5.22,5,15.66,0.78,14.88,3
+ORD00327,2025-07-13,DC,Aquaman,Solo Hero,Merchandise,Retail Store,Europe,Family,3,19.99,5,59.97,3.0,56.97,0
+ORD00162,2025-07-14,Marvel,Spider-Man: No Way Home,Solo Hero,Blu-ray,Online Marketplace,North America,Fan,3,22.49,20,67.47,13.49,53.98,0
+ORD00280,2025-07-14,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,HeroShelf,Europe,Fan,2,14.24,25,28.48,7.12,21.36,0
+ORD00048,2025-07-15,DC,Black Adam,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,2,5.49,15,10.98,1.65,9.33,7
+ORD00126,2025-07-16,DC,Wonder Woman,Solo Hero,Digital Purchase,CineNow,Europe,Fan,1,15.74,5,15.74,0.79,14.95,0
+ORD00439,2025-07-16,Marvel,The Marvels,Team-Up,Digital Rental,StreamFlix,Europe,Fan,1,5.49,15,5.49,0.82,4.67,7
+ORD00180,2025-07-17,DC,The Dark Knight,Solo Hero,Merchandise,Retail Store,Europe,Family,2,20.99,15,41.98,6.3,35.68,0
+ORD00413,2025-07-18,Marvel,Thor: Love and Thunder,Solo Hero,Digital Rental,StreamFlix,North America,Fan,1,5.49,10,5.49,0.55,4.94,5
+ORD00486,2025-07-18,DC,Wonder Woman,Solo Hero,Digital Purchase,CineNow,North America,Fan,1,14.99,20,14.99,3.0,11.99,0
+ORD00066,2025-07-22,Marvel,Spider-Man: No Way Home,Solo Hero,Blu-ray,Online Marketplace,Latin America,Casual Viewer,2,27.49,20,54.98,11.0,43.98,0
+ORD00020,2025-07-23,DC,Blue Beetle,Solo Hero,Digital Purchase,CineNow,Asia-Pacific,Fan,1,14.24,10,14.24,1.42,12.82,0
+ORD00127,2025-07-26,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Fan,2,6.04,20,12.08,2.42,9.66,1
+ORD00384,2025-07-27,Marvel,Black Panther,Solo Hero,Digital Purchase,StreamFlix,North America,Collector,2,14.24,5,28.48,1.42,27.06,0
+ORD00273,2025-08-04,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,StreamFlix,Europe,Casual Viewer,1,14.99,5,14.99,0.75,14.24,0
+ORD00414,2025-08-04,DC,Aquaman,Solo Hero,Digital Rental,StreamFlix,North America,Fan,1,5.22,5,5.22,0.26,4.96,7
+ORD00208,2025-08-06,Marvel,Thor: Love and Thunder,Solo Hero,Digital Purchase,CineNow,North America,Casual Viewer,1,15.74,5,15.74,0.79,14.95,0
+ORD00103,2025-08-09,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,CineNow,Europe,Casual Viewer,4,14.99,0,59.96,0.0,59.96,0
+ORD00054,2025-08-10,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,CineNow,Europe,Collector,4,14.24,20,56.96,11.39,45.57,0
+ORD00091,2025-08-10,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,HeroShelf,North America,Collector,1,5.22,0,5.22,0.0,5.22,7
+ORD00243,2025-08-10,Marvel,Avengers: Endgame,Team-Up,Blu-ray,Online Marketplace,Europe,Casual Viewer,1,27.49,10,27.49,2.75,24.74,0
+ORD00386,2025-08-11,DC,Wonder Woman,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,3,5.49,20,16.47,3.29,13.18,7
+ORD00461,2025-08-12,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Purchase,HeroShelf,Europe,Fan,5,14.99,15,74.95,11.24,63.71,0
+ORD00443,2025-08-14,DC,Blue Beetle,Solo Hero,Digital Purchase,StreamFlix,Europe,Fan,1,14.99,0,14.99,0.0,14.99,0
+ORD00036,2025-08-15,DC,The Suicide Squad,Team-Up,Digital Rental,CineNow,North America,Collector,2,6.04,20,12.08,2.42,9.66,1
+ORD00033,2025-08-17,DC,Black Adam,Solo Hero,Digital Rental,CineNow,Europe,Collector,2,5.76,10,11.52,1.15,10.37,2
+ORD00042,2025-08-17,Marvel,Spider-Man: No Way Home,Solo Hero,Merchandise,Retail Store,Latin America,Casual Viewer,2,20.99,20,41.98,8.4,33.58,0
+ORD00349,2025-08-17,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Merchandise,Online Marketplace,North America,Fan,2,19.99,0,39.98,0.0,39.98,0
+ORD00377,2025-08-17,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,Online Marketplace,Latin America,Family,2,20.99,20,41.98,8.4,33.58,0
+ORD00001,2025-08-18,DC,Aquaman,Solo Hero,Blu-ray,Retail Store,Latin America,Collector,1,22.49,15,22.49,3.37,19.12,0
+ORD00068,2025-08-18,Marvel,Avengers: Endgame,Team-Up,Blu-ray,Retail Store,Asia-Pacific,Casual Viewer,1,27.49,5,27.49,1.37,26.12,0
+ORD00481,2025-08-20,DC,The Dark Knight,Solo Hero,Digital Rental,CineNow,North America,Casual Viewer,3,6.04,10,18.12,1.81,16.31,3
+ORD00264,2025-08-22,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,HeroShelf,North America,Fan,2,13.49,20,26.98,5.4,21.58,0
+ORD00451,2025-08-23,DC,The Batman,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,1,26.24,10,26.24,2.62,23.62,0
+ORD00156,2025-08-24,DC,The Suicide Squad,Team-Up,Merchandise,Retail Store,North America,Casual Viewer,4,18.99,10,75.96,7.6,68.36,0
+ORD00038,2025-08-26,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,StreamFlix,Europe,Casual Viewer,2,13.49,10,26.98,2.7,24.28,0
+ORD00047,2025-08-27,DC,Blue Beetle,Solo Hero,Blu-ray,HeroShelf,North America,Casual Viewer,1,27.49,0,27.49,0.0,27.49,0
+ORD00301,2025-09-03,DC,The Suicide Squad,Team-Up,Digital Rental,CineNow,Asia-Pacific,Family,2,5.76,10,11.52,1.15,10.37,1
+ORD00181,2025-09-05,Marvel,Thor: Love and Thunder,Solo Hero,Digital Rental,StreamFlix,Europe,Fan,2,6.04,10,12.08,1.21,10.87,2
+ORD00235,2025-09-05,Marvel,Black Panther,Solo Hero,Digital Rental,CineNow,Europe,Casual Viewer,1,6.04,20,6.04,1.21,4.83,1
+ORD00201,2025-09-07,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Merchandise,Online Marketplace,Latin America,Collector,1,21.99,5,21.99,1.1,20.89,0
+ORD00003,2025-09-08,DC,Black Adam,Solo Hero,Digital Rental,HeroShelf,Asia-Pacific,Collector,1,5.22,0,5.22,0.0,5.22,3
+ORD00029,2025-09-09,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Merchandise,Online Marketplace,North America,Casual Viewer,1,17.99,0,17.99,0.0,17.99,0
+ORD00125,2025-09-10,Marvel,Black Panther,Solo Hero,Merchandise,Retail Store,Europe,Collector,1,21.99,0,21.99,0.0,21.99,0
+ORD00152,2025-09-10,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Blu-ray,Retail Store,Europe,Family,2,24.99,25,49.98,12.49,37.49,0
+ORD00338,2025-09-11,DC,Black Adam,Solo Hero,Blu-ray,Retail Store,North America,Casual Viewer,1,27.49,10,27.49,2.75,24.74,0
+ORD00195,2025-09-13,DC,The Suicide Squad,Team-Up,Digital Purchase,CineNow,Europe,Family,1,14.99,10,14.99,1.5,13.49,0
+ORD00031,2025-09-15,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,Europe,Fan,1,4.94,0,4.94,0.0,4.94,2
+ORD00458,2025-09-15,DC,Shazam! Fury of the Gods,Solo Hero,Merchandise,Online Marketplace,Asia-Pacific,Family,1,19.99,5,19.99,1.0,18.99,0
+ORD00499,2025-09-15,Marvel,The Marvels,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Family,1,6.04,0,6.04,0.0,6.04,3
+ORD00102,2025-09-16,Marvel,The Marvels,Team-Up,Digital Purchase,HeroShelf,North America,Casual Viewer,3,14.24,25,42.72,10.68,32.04,0
+ORD00059,2025-09-22,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Purchase,HeroShelf,North America,Collector,1,14.24,10,14.24,1.42,12.82,0
+ORD00123,2025-09-25,Marvel,The Marvels,Team-Up,Digital Rental,CineNow,Asia-Pacific,Fan,3,5.22,20,15.66,3.13,12.53,1
+ORD00150,2025-09-26,Marvel,Black Panther,Solo Hero,Merchandise,HeroShelf,North America,Fan,4,19.99,0,79.96,0.0,79.96,0
+ORD00266,2025-10-01,Marvel,Thor: Love and Thunder,Solo Hero,Digital Purchase,StreamFlix,North America,Casual Viewer,4,13.49,5,53.96,2.7,51.26,0
+ORD00223,2025-10-05,Marvel,Spider-Man: No Way Home,Solo Hero,Merchandise,HeroShelf,Europe,Family,1,18.99,0,18.99,0.0,18.99,0
+ORD00233,2025-10-05,DC,Wonder Woman,Solo Hero,Digital Purchase,HeroShelf,Europe,Fan,1,14.24,5,14.24,0.71,13.53,0
+ORD00370,2025-10-05,DC,Wonder Woman,Solo Hero,Blu-ray,Retail Store,Asia-Pacific,Collector,1,23.74,10,23.74,2.37,21.37,0
+ORD00420,2025-10-08,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,Europe,Fan,3,5.49,10,16.47,1.65,14.82,2
+ORD00100,2025-10-11,DC,The Suicide Squad,Team-Up,Digital Rental,StreamFlix,North America,Collector,4,4.94,15,19.76,2.96,16.8,2
+ORD00084,2025-10-15,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Blu-ray,HeroShelf,North America,Family,2,27.49,10,54.98,5.5,49.48,0
+ORD00144,2025-10-16,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Merchandise,Online Marketplace,Europe,Family,1,19.99,10,19.99,2.0,17.99,0
+ORD00287,2025-10-17,DC,The Batman,Solo Hero,Digital Purchase,StreamFlix,Europe,Fan,2,15.74,10,31.48,3.15,28.33,0
+ORD00113,2025-10-21,DC,The Dark Knight,Solo Hero,Digital Rental,StreamFlix,North America,Casual Viewer,1,6.04,15,6.04,0.91,5.13,7
+ORD00444,2025-10-21,DC,Black Adam,Solo Hero,Digital Purchase,StreamFlix,North America,Fan,1,14.99,10,14.99,1.5,13.49,0
+ORD00168,2025-10-23,DC,Blue Beetle,Solo Hero,Digital Purchase,HeroShelf,North America,Fan,1,13.49,10,13.49,1.35,12.14,0
+ORD00294,2025-10-25,Marvel,Avengers: Endgame,Team-Up,Digital Purchase,StreamFlix,North America,Fan,1,14.24,0,14.24,0.0,14.24,0
+ORD00399,2025-10-25,DC,Shazam! Fury of the Gods,Solo Hero,Blu-ray,HeroShelf,Europe,Fan,3,27.49,10,82.47,8.25,74.22,0
+ORD00135,2025-10-26,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,StreamFlix,North America,Fan,4,16.49,5,65.96,3.3,62.66,0
+ORD00183,2025-11-05,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Blu-ray,Online Marketplace,Latin America,Casual Viewer,3,24.99,10,74.97,7.5,67.47,0
+ORD00409,2025-11-07,Marvel,The Marvels,Team-Up,Digital Rental,CineNow,North America,Fan,1,6.04,10,6.04,0.6,5.44,3
+ORD00470,2025-11-07,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,Europe,Collector,1,5.49,20,5.49,1.1,4.39,2
+ORD00046,2025-11-08,Marvel,Thor: Love and Thunder,Solo Hero,Digital Rental,StreamFlix,Europe,Collector,1,5.22,5,5.22,0.26,4.96,7
+ORD00120,2025-11-08,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,CineNow,North America,Family,3,5.49,15,16.47,2.47,14.0,1
+ORD00160,2025-11-08,Marvel,Spider-Man: No Way Home,Solo Hero,Merchandise,HeroShelf,Asia-Pacific,Fan,3,20.99,15,62.97,9.45,53.52,0
+ORD00237,2025-11-08,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,CineNow,Asia-Pacific,Fan,5,5.76,5,28.8,1.44,27.36,1
+ORD00465,2025-11-09,Marvel,Avengers: Endgame,Team-Up,Merchandise,HeroShelf,North America,Casual Viewer,2,17.99,15,35.98,5.4,30.58,0
+ORD00405,2025-11-10,DC,Blue Beetle,Solo Hero,Merchandise,Online Marketplace,Europe,Collector,2,20.99,0,41.98,0.0,41.98,0
+ORD00473,2025-11-13,DC,Aquaman,Solo Hero,Digital Rental,StreamFlix,North America,Collector,2,5.76,5,11.52,0.58,10.94,2
+ORD00025,2025-11-14,Marvel,Avengers: Endgame,Team-Up,Blu-ray,HeroShelf,North America,Fan,2,22.49,30,44.98,13.49,31.49,0
+ORD00082,2025-11-14,Marvel,Avengers: Endgame,Team-Up,Blu-ray,Retail Store,North America,Casual Viewer,1,22.49,25,22.49,5.62,16.87,0
+ORD00178,2025-11-14,Marvel,Spider-Man: No Way Home,Solo Hero,Merchandise,Online Marketplace,North America,Casual Viewer,2,18.99,15,37.98,5.7,32.28,0
+ORD00231,2025-11-14,DC,The Batman,Solo Hero,Blu-ray,Retail Store,Europe,Casual Viewer,2,22.49,20,44.98,9.0,35.98,0
+ORD00364,2025-11-15,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,Latin America,Casual Viewer,1,6.04,20,6.04,1.21,4.83,7
+ORD00189,2025-11-19,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Digital Rental,StreamFlix,North America,Casual Viewer,1,4.94,0,4.94,0.0,4.94,7
+ORD00026,2025-11-20,Marvel,The Marvels,Team-Up,Blu-ray,HeroShelf,North America,Collector,1,22.49,20,22.49,4.5,17.99,0
+ORD00044,2025-11-20,Marvel,The Marvels,Team-Up,Merchandise,Retail Store,North America,Collector,5,21.99,5,109.95,5.5,104.45,0
+ORD00434,2025-11-21,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,StreamFlix,North America,Collector,1,4.94,20,4.94,0.99,3.95,5
+ORD00182,2025-11-22,DC,The Dark Knight,Solo Hero,Blu-ray,Retail Store,North America,Collector,2,24.99,30,49.98,14.99,34.99,0
+ORD00344,2025-11-22,DC,Blue Beetle,Solo Hero,Merchandise,HeroShelf,North America,Casual Viewer,1,19.99,5,19.99,1.0,18.99,0
+ORD00154,2025-11-23,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Rental,StreamFlix,Latin America,Casual Viewer,5,5.76,15,28.8,4.32,24.48,7
+ORD00199,2025-11-26,DC,The Suicide Squad,Team-Up,Merchandise,Online Marketplace,North America,Casual Viewer,1,21.99,5,21.99,1.1,20.89,0
+ORD00272,2025-11-26,DC,Shazam! Fury of the Gods,Solo Hero,Digital Purchase,CineNow,Asia-Pacific,Casual Viewer,2,15.74,25,31.48,7.87,23.61,0
+ORD00418,2025-11-26,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,HeroShelf,North America,Casual Viewer,2,13.49,20,26.98,5.4,21.58,0
+ORD00015,2025-11-27,Marvel,Doctor Strange in the Multiverse of Madness,Solo Hero,Digital Purchase,StreamFlix,Latin America,Fan,1,13.49,20,13.49,2.7,10.79,0
+ORD00085,2025-12-03,DC,Wonder Woman,Solo Hero,Digital Rental,CineNow,Europe,Casual Viewer,1,5.76,10,5.76,0.58,5.18,2
+ORD00268,2025-12-06,Marvel,Spider-Man: No Way Home,Solo Hero,Merchandise,HeroShelf,Europe,Fan,2,21.99,5,43.98,2.2,41.78,0
+ORD00387,2025-12-07,Marvel,Spider-Man: No Way Home,Solo Hero,Digital Rental,CineNow,North America,Family,1,5.49,0,5.49,0.0,5.49,1
+ORD00282,2025-12-10,DC,The Dark Knight,Solo Hero,Digital Purchase,StreamFlix,Europe,Fan,1,14.99,10,14.99,1.5,13.49,0
+ORD00354,2025-12-10,Marvel,The Marvels,Team-Up,Digital Purchase,StreamFlix,Latin America,Casual Viewer,5,13.49,5,67.45,3.37,64.08,0
+ORD00494,2025-12-10,DC,Black Adam,Solo Hero,Digital Rental,HeroShelf,North America,Casual Viewer,1,4.94,20,4.94,0.99,3.95,7
+ORD00432,2025-12-12,DC,Black Adam,Solo Hero,Digital Purchase,CineNow,Europe,Fan,1,16.49,15,16.49,2.47,14.02,0
+ORD00341,2025-12-13,Marvel,Thor: Love and Thunder,Solo Hero,Merchandise,HeroShelf,North America,Fan,1,18.99,25,18.99,4.75,14.24,0
+ORD00404,2025-12-13,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,StreamFlix,Asia-Pacific,Fan,2,5.22,10,10.44,1.04,9.4,5
+ORD00290,2025-12-14,Marvel,The Marvels,Team-Up,Merchandise,Online Marketplace,North America,Family,1,17.99,15,17.99,2.7,15.29,0
+ORD00214,2025-12-15,Marvel,Black Panther,Solo Hero,Blu-ray,HeroShelf,North America,Fan,1,23.74,20,23.74,4.75,18.99,0
+ORD00019,2025-12-18,Marvel,Guardians of the Galaxy Vol. 3,Team-Up,Digital Rental,HeroShelf,North America,Casual Viewer,3,6.04,10,18.12,1.81,16.31,7
+ORD00317,2025-12-18,Marvel,Shang-Chi and the Legend of the Ten Rings,Solo Hero,Blu-ray,Retail Store,Latin America,Fan,1,22.49,10,22.49,2.25,20.24,0
+ORD00406,2025-12-18,DC,The Batman,Solo Hero,Merchandise,Online Marketplace,Europe,Family,1,18.99,30,18.99,5.7,13.29,0
+ORD00479,2025-12-18,Marvel,Black Panther,Solo Hero,Digital Rental,CineNow,Latin America,Casual Viewer,2,6.04,20,12.08,2.42,9.66,2
+ORD00454,2025-12-19,DC,The Batman,Solo Hero,Blu-ray,HeroShelf,North America,Fan,1,22.49,20,22.49,4.5,17.99,0
+ORD00482,2025-12-21,Marvel,Avengers: Endgame,Team-Up,Digital Rental,StreamFlix,Europe,Collector,1,5.49,20,5.49,1.1,4.39,1
+ORD00457,2025-12-26,DC,Wonder Woman,Solo Hero,Merchandise,Online Marketplace,Asia-Pacific,Collector,1,18.99,15,18.99,2.85,16.14,0
+ORD00304,2025-12-27,DC,Blue Beetle,Solo Hero,Digital Purchase,StreamFlix,Asia-Pacific,Collector,1,14.24,5,14.24,0.71,13.53,0
