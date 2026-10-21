@@ -1,0 +1,507 @@
+Student_ID,Student_Name,House,Year_Level,Subject,Class_Date,Score,Attendance_Status,Teacher
+STU0001, Viktor Malfoy,Gryffindor,6,Transfiguration,1991-10-28,52.0,Late,Flitwick
+STU0002,Draco Brown,Gryffindor,5,Herbology,1991-09-08,46.0,Present,snape
+STU0003,Fred Jordan,Gryffindor,5,Charms,1992/02/14,88.0,Present,Sinistra
+STU0004,Padma Finnigan,Gryffindor,7,Charms,1991-12-18,78.0,Absent,Sinistra
+STU0005,Luna Chang,Ravenclaw,1,Potions,,80.0,Absent,Sprout
+STU0006,Fleur Finnigan,Gryffindor,6,Herbology,1991-10-02,83.0,Present,Lupin
+STU0007,Percy Thomas,Ravenclaw,5,Charms,1991-09-18,40.0.0,Late,Sinistra
+STU0008,Fred Thomas,Gryffindor,7,Charms,1991-12-07,70.0,Absent,Snape
+STU0009,Viktor Parkinson,Slytherin,3,Transfiguration,1992-02-19,69.0,Late,Flitwick
+STU0010,Katie Weasley  ,Slytherin,5,Astronomy,1991-10-12,94.0,Absent,Flitwick
+STU0011,George Brown,Slytherin,6,Transfiguration,1991-10-29,39.0,Absent,Snape
+STU0012,Dean Finnigan,Gryffindor,2,Defence Against the Dark Arts,1991-11-20,62.0,Late,Sinistra
+STU0013,Pansy Wood,Hufflepuff,2,Transfiguration,1991-11-03, 68.0 ,Late,Flitwick
+STU0014,Lavender Delacour,Hufflepuff,3,Charms,1992-01-09,98.0,Present,Flitwick
+STU0015,Hermione Malfoy,Slytherin,6,Charms,1991-12-18,43.0,Absent,Sinistra
+STU0016,Dean Krum,Ravenclaw,5,Potions,1991-09-30,69.0,Late,Sinistra
+STU0017,Cedric Malfoy,Ravenclaw,4,Charms,1991-09-01,68.0,Late,Sprout
+STU0018,Neville Jordan,Gryffindor,7,Astronomy,1992-02-11,99.0,Late,McGonagall
+STU0019,GINNY LOVEGOOD,Ravenclaw,7,Charms,1992-01-14,35.0,Late,Lupin
+STU0020,Cedric Johnson,Gryffindor,1,Transfiguration,1991-11-01,42.0,Present,McGonagall
+STU0478,Lavender Weasley,Gryffindor,6,Herbology,1992-01-15,51.0,Present,Snape
+STU0022,Katie Johnson,Slytherin,3,Defence Against the Dark Arts,1991-12-18,62.0,Late,Lupin
+STU0023,Angelina Chang,Ravenclaw,4,Astronomy,1991-12-05,91.0,Late,Sinistra
+STU0024,Padma Malfoy,Slytherin,2,Potions,,64.0,Late,McGonagall
+STU0025,Fred Potter,Gryffindor,6,Astronomy,1991/10/29,43.0,Present,Snape
+STU0026,Cedric Weasley,Slytherin,3,Astronomy,1991-10-25,51.0,Late,Sprout
+STU0027,Lavender Johnson,Slytherin,7,Herbology,1991-10-19,47.0,Present,Sprout
+STU0028,Katie Delacour,Ravenclaw,4,Herbology,1991-09-14,47.0.0,Present,Sprout
+STU0029,Dean Patil,Gryffindor,2,Charms,1992-01-16,92.0.0,Present,Flitwick
+STU0030,Parvati Longbottom,Ravenclaw,4,Charms,1991-12-23,47.0,Present,Snape
+STU0031,Viktor Brown,gryffindor,1,Charms,1991-12-14,97.0,Absent,Flitwick
+STU0032,Ginny Wood,Gryffindor,2,Herbology,1991-12-09,68.0,Absent,Snape
+STU0033,Cho Delacour,Hufflepuff,2,Charms,1991-10-26,42.0,Late,McGonagall
+STU0034,Angelina Brown,Gryffindor,6,Transfiguration,1991-09-13,96.0,Late,Snape
+STU0035,Oliver Longbottom,Gryffindor,5,Potions,1991-09-18,43.0,Late,Flitwick
+STU0036,Fred Wood,Gryffindor,5,Charms,1992-01-31,40.0,Late,Lupin
+STU0037,Ron Delacour,Ravenclaw,3,Charms,1991-11-20,65.0,Absent,Sinistra
+STU0038 ,Dean Lovegood,Ravenclaw,4,Transfiguration,1991-09-03,93.0,Late,Snape
+STU0039,Lavender Malfoy,Gryffindor,0, Charms,1991-11-07,51.0,Absent,Lupin
+STU0040,Ron Diggory,Ravenclaw,3,Charms,1992-01-18,73.0,Late,Sprout
+STU0041,Viktor Jordan,Gryffindor,6,Defence Against the Dark Arts,1992-02-17,48.0,Present,McGonagall
+STU0042,George Malfoy,Gryffindor,6,Defence Against the Dark Arts,1991-11-09,71.0,Late,Flitwick
+STU0043,Ginny Patil,Slytherin,6,Astronomy,1992-01-08,97.0,Absent,McGonagall
+STU0044,Hermione Weasley,Hufflepuff,7,Transfiguration,1991-09-01,77.0,Present,Snape
+STU0045,Viktor Finnigan,Slytherin,6,Herbology,1991-12-19,36.0,Present,Lupin
+STU0046,Ron Lovegood,Gryffindor,7,Transfiguration,1992-01-20,53.0,Absent,Lupin
+STU0047,Luna Granger  ,Ravenclaw,3,Potions,1991-10-24,66.0,Late,McGonagall
+STU0048,Draco Parkinson,Hufflepuff,5,Astronomy,1991-10-31,55.0,Present,Flitwick
+STU0049,Parvati Potter,Slytherin,6,Transfiguration,1992-02-19,66.0,Absent,
+STU0050,Neville Malfoy,Hufflepuff,7,Potions,1991-10-27,60.0,Absent,MCGONAGALL
+STU0051,Seamus Thomas,Slytherin,2,Potions,1991-10-20,86.0,Absent,Sinistra
+STU0052,George Weasley,Ravenclaw,3,Astronomy,1991-12-12,77.0,Present,Lupin
+STU0053, Draco Finnigan,Slytherin,5,Transfiguration,1991-09-28,90.0,Absent,Snape
+STU0054,Angelina Patil,gryffindor,5,Defence Against the Dark Arts,1991-12-08,59.0,Absent,Snape
+STU0055,Hermione Delacour,Gryffindor,5,Defence Against the Dark Arts,1992-02-19,60.0.0,Absent,Sinistra
+STU0056,Parvati Weasley,Ravenclaw,5,Transfiguration,"Oct 02, 1991",73.0,Late,Sinistra
+STU0057,Cho Delacour,Ravenclaw,4,Astronomy,1992-01-20,51.0,Present,McGonagall
+STU0058,Parvati Wood,HUFFLEPUFF,5,Defence Against the Dark Arts,1991-12-13,35.0,Absent,McGonagall
+STU0059,Cho Chang,Hufflepuff,7,Defence Against the Dark Arts,1992-02-15,76.0,Absent,snape
+STU0060,Padma Krum,Slytherin,5,,1991-10-14,45.0,Absent,Sinistra
+STU0061,Oliver Patil  ,Gryffindor,7,Charms,1991-11-19,63.0,Present,Sinistra
+STU0062,Luna Potter,Gryffindor,2,Herbology,19/09/1991,93.0,Absent,Lupin
+STU0063,Viktor Chang,Hufflepuff,4,Herbology,1991-10-08,35.0,Present,Flitwick
+STU0064,Parvati Diggory,Slytherin,7,Astronomy,"Dec 28, 1991",41.0,Late,Lupin
+STU0065,Fred Malfoy,Hufflepuff,2,Herbology,1992-01-14,75.0,Absent,Sinistra
+STU0066,Fleur Jordan,Hufflepuff,7,Defence Against the Dark Arts,1991-10-11,95.0,Absent,Sprout
+STU0067,George Diggory,Ravenclaw,7,Defence Against the Dark Arts,1992-02-08,65.0,Absent,Sprout
+STU0068,Padma Weasley,GRYFFINDOR,2,Transfiguration,31/02/1992,45.0,Present,McGonagall
+STU0069,Luna Diggory,Hufflepuff,6,Charms,1991/10/25,43.0,Absent,Sinistra
+STU0070,Parvati Patil,Hufflepuff,4,Potions,1991-12-17,84.0,Late,Flitwick
+STU0071,Lee Potter,Hufflepuff,4,Potions,,84.0,Absent,McGonagall
+STU0072,Percy Brown,Slytherin,4,Charms,1991-12-21,97.0,Present,McGonagall
+STU0073,Dean Patil,Hufflepuff,6,Charms,1991-10-03,38.0,Absent,Sprout
+STU0074,Lavender Potter,Gryffindor,6,Herbology,1991-12-28,58.0,Present,Flitwick
+STU0075,George Wood,Ravenclaw,2,Herbology,1991-11-26,83.0.0,Absent,McGonagall
+STU0076,Parvati Finnigan,Gryffindor,4,Potions,1992-01-17,41.0,Absent,Sinistra
+STU0077,Fred Weasley,Gryffindor,7,Potions,1991-10-22,37.0,Late,Flitwick
+STU0078,Luna Diggory,Slytherin,4,Astronomy,1992-01-23,62.0,Absent,Snape
+STU0321,Lee Finnigan,Ravenclaw,2,Defence Against the Dark Arts,1991-09-30,55.0,Absent,Lupin
+STU0397,Draco Potter,Ravenclaw,5,Astronomy,1991-12-11,60.0,Present,Sprout
+STU0081,Lavender Diggory,Gryffindor,6,Transfiguration,1992-02-01,50.0,Late,Sinistra
+STU0082,Hermione Parkinson,gryffindor,6,Transfiguration,1992-01-08,78.0,Present,Snape
+STU0083,Parvati Johnson,Gryffindor,4,Transfiguration,1991-12-27,54.0,Absent,Sinistra
+STU0084,Neville Jordan,Ravenclaw,5,Defence Against the Dark Arts,1991-12-29,90.0,Late,Sprout
+STU0085,Lavender Finnigan,Ravenclaw,7,Herbology ,1991-11-11,92.0,Present,Snape
+STU0086,Padma Wood,HUFFLEPUFF,1,Herbology,1991-10-17,97.0,Present,McGonagall
+STU0087,Seamus Finnigan,Ravenclaw,3,Defence Against the Dark Arts,1991-11-10,36.0,Late,Sinistra
+STU0088,Ginny Weasley,Slytherin,6,Herbology,1992-01-21,65.0,Late,Sprout
+STU0089,Pansy Johnson,Hufflepuff,Year 3,Potions,1991-11-15,63.0,Absent,Snape
+STU0090,Lee Diggory,Ravenclaw,6,Defence Against the Dark Arts,1991-12-31,79.0,Absent,McGonagall
+STU0091,Angelina Brown,Ravenclaw,0,Astronomy,1991-11-09,74.0,Absent,Sprout
+STU0092,Fred Malfoy,Slytherin,3,Potions,1992-01-16,58.0,Present,Sinistra
+STU0093,Ginny Johnson,Ravenclaw,6,Defence Against the Dark Arts,1992-01-31,71.0,Present,Lupin
+STU0094,Ginny Thomas,Slytherin,3,Charms,1991-09-04,51.0,Absent,McGonagall
+STU0095,Hermione Granger,Ravenclaw,6,Charms,1992-01-04,48.0,Present,Sinistra
+STU0096,Lavender Thomas,Hufflepuff,-1,Herbology,1991-10-18,41.0,Absent,McGonagall
+STU0097,Pansy Malfoy,Gryffindor,4,Herbology,1992-01-26,41.0,Present,Snape
+STU0098,Luna Thomas,Gryffindor,2,Potions,1991/12/16,63.0,Late,Lupin
+STU0099,Dean Krum,Hufflepuff,3,Defence Against the Dark Arts,1991-11-18,42.0,Late,Sprout
+STU0100,Angelina Malfoy,Slytherin,6,Charms,1992-02-17,45.0,Present,McGonagall
+STU0101,Fred Longbottom,Gryffindor,2,Potions,1991-12-25,95.0,Absent,Sprout
+STU0102,Hermione Diggory,Ravenclaw,6,Transfiguration,1991-12-26,44.0,Late,Sinistra
+STU0103,Fred Finnigan,Slytherin,4,Potions,1991-10-28,54.0.0,Absent,Lupin
+STU0104,Luna Weasley,Gryffindor,2,Transfiguration,1992-01-24,71.0,Absent,Lupin
+STU0105,Draco Krum,Ravenclaw,6,Herbology,1992-01-07,98.0,Absent,McGonagall
+STU0106,Ron Granger,Hufflepuff,6,Transfiguration,1991-11-04,38.0,Present,Lupin
+STU0107,Fred Potter,Ravenclaw,5,Potions,1991-12-30,91.0,Absent,Flitwick
+STU0108,Neville Delacour,Hufflepuff,1,Herbology,1991-12-14,77.0,Absent,McGonagall
+STU0109,Katie Malfoy,Slytherin,3,Herbology,1992-01-05,71.0,Late,Sinistra
+STU0110,Dean Brown,Gryffindor,4,Potions,1991-11-04,76.0,Present,McGonagall
+STU0111,Dean Jordan,Gryffindor,6,Defence Against the Dark Arts,1991/12/15,41.0,Present,Sprout
+STU0112,Oliver Parkinson,Hufflepuff,6,Herbology,1991-10-23,69.0,Late,Snape
+STU0113,Luna Thomas,Hufflepuff,6,Herbology,1991-09-08,65.0,Late,Snape
+STU0114,Neville Thomas,Gryffindor,5,Herbology,1991-10-28,49.0,Absent,Sprout 
+STU0115,Draco Lovegood,Hufflepuff,6,Transfiguration,1991-11-09,88.0,Here,Lupin
+STU0116,Pansy Diggory,Hufflepuff,5,Charms,1991-10-19,999,Late,Sprout
+STU0117,Luna Weasley,Ravenclaw,7,Herbology,1992-01-08,69.0,Present,McGonagall
+STU0118,Cho Thomas,Hufflepuff,7,Charms,1992-01-16,96.0,Absent,Sprout
+STU0119,Cedric Brown,Hufflepuff,4,Transfiguration,1992-02-26,65.0,Late,Flitwick
+STU0120,Dean Diggory,Hufflepuff,1,Transfiguration,1991-12-31,83.0,Absent,Sinistra
+STU0121,Katie Lovegood,Hufflepuff,1,Charms,1992-01-30,77.0,Present,Lupin
+STU0122,Padma Malfoy,Hufflepuff,1,Astronomy,1991-12-14,54.0,Present,Flitwick
+STU0123,Pansy Finnigan,Ravenclaw,5,Astronomy,1992-02-14,45.0,Absent,Sprout
+STU0124,Katie Brown,Hufflepuff,3,DADA,1992-01-03,39.0,Late,Sinistra
+STU0125,Ron Diggory,Ravenclaw,2,Astronomy,1991-12-21,47.0,Late,Snape
+STU0126,Lee Malfoy,Hufflepuff,2,Astronomy,1991-09-08,40.0,Absent,McGonagall
+STU0127,Hermione Thomas,Ravenclaw,3,Herbology,1991-11-02,87.0,Late,Flitwick
+STU0128,Katie Longbottom,Slytherin,2,Potions,1991-12-07,65.0,Absent,Lupin
+STU0129,Lavender Lovegood,Slytherin,4,Astronomy,1991-12-27,67.0,Late,McGonagall
+STU0130,Harry Krum,Ravenclaw,6,Defence Against the Dark Arts,1991-09-19,91.0,Absent,Flitwick
+STU0131,Lavender Thomas,Hufflepuff,6,Transfiguration,1991-11-17,60.0,Absent,Sprout
+STU0132,Pansy Malfoy,Slytherin,4,Defence Against the Dark Arts,1992-01-26,72.0,Late,McGonagall
+STU0133,Cho Potter,Hufflepuff,3,Potions,1992-02-23,41.0,Late,Lupin
+STU0134,Angelina Johnson,Ravenclaw,7,Charms,1991-11-30,63.0,Late,Lupin
+STU0135,Ginny Finnigan,Slytherin,6,Potions,1992-02-13,40.0,Absent,Sinistra
+STU0136,Padma Granger,Ravenclaw,6,Charms,1991-11-15,76.0,Late,Snape
+STU0137,Parvati Longbottom,Slytherin,2,Defence Against the Dark Arts,1992-01-14,99.0,Absent,McGonagall
+STU0138,Neville Finnigan,Hufflepuff,7,Transfiguration,1991-11-26,49.0,Absent,Sinistra
+STU0139,Ron Lovegood,Slytherin,7,Astronomy,1992-02-20,85.0,Late,Sinistra
+STU0140,Seamus Weasley,Hufflepuff,1,Transfiguration,1991-10-02,93.0,Absent,Lupin
+STU0141,Katie Finnigan,Hufflepuff,7,Astronomy,1991-09-28,64.0,Absent,McGonagall
+STU0142,Harry Brown,Ravenclaw,5,Charms,1991-09-17,94.0,Late,Sinistra
+STU0143,Cho Delacour,Gryffindor,2,Herbology ,1991-11-17,98.0,Present,Snape
+STU0144,Draco Diggory,Slytherin,4,Herbology,1992-02-19,88.0,Late,McGonagall
+STU0145,Angelina Lovegood,Hufflepuff,6,Potions,1992-02-05,87.0,Absent,Sprout
+STU0146,Hermione Parkinson,Slytherin,4,Herbology,1991-12-02,47.0,Late,Flitwick
+STU0147,Seamus Brown,Ravenclaw,1,Herbology,1991-10-19,50.0.0,Absent,McGonagall
+STU0148,Ron Chang,Gryffindor,1,Transfiguration,1991-10-03,61.0,Present,Flitwick
+STU0149,Percy Chang,Slytherin,7,,1991-10-08,35.0,Absent,McGonagall
+STU0150,Luna Lovegood,Ravenclaw,7,Charms,1992-02-17,38.0,Present,Snape
+STU0151,Harry Parkinson,Slytherin,5,Transfiguration,1991-10-15,68.0,Present,Snape
+STU0152,Luna Delacour,Gryffindor,6,Potions,1991-12-24,81.0,Late,Sprout
+STU0153,Lavender Malfoy,Hufflepuff,5,Charms,1991-09-12,73.0,Absent,Lupin
+STU0154,Viktor Potter,Gryffindor,4,Herbology,1992-02-23,48.0,Absent,Sprout
+stu0155,Lee Krum,Gryffindor,1,Transfiguration,1991-10-08,43.0,Present,Lupin
+STU0156,George Brown,Ravenclaw,4,Defence Against the Dark Arts,1991-11-15,93.0,Late,Lupin
+STU0157,Fleur Delacour,Gryffindor,7,Astronomy,1992-02-15,62.0,Absent,Snape
+STU0158,Padma Diggory,Hufflepuff,3,Herbology,1991-12-16,47.0,Absent,Sprout
+STU0159,Parvati Patil,Ravenclaw,3,Charms,1991-12-31,43.0,Present,Sinistra
+STU0160,Ron Weasley,Hufflepuff,1,Astronomy,1991-12-05,51.0,Late,Sinistra
+STU0161,Hermione Brown,Ravenclaw,6,,1991-11-30,89.0,Late,Sprout
+STU0162, Hermione Thomas,Ravenclaw,3,Potions,1992-01-08,62.0,Present,Lupin
+stu0163,Katie Johnson,Slytherin,7,Potions,1992-01-21,82.0,Present,McGonagall
+STU0164,George Diggory,Hufflepuff,7,Defence Against the Dark Arts,1992-02-05,38.0,Late,Lupin
+STU0165,Katie Finnigan,Gryffindor,2,Herbology ,1991-11-19,78.0,Absent,Sinistra
+STU0166,Harry Longbottom,Slytherin,5,Astronomy,1991-09-18,53.0,Late,Sprout
+STU0167,Viktor Potter,Gryffindor,6,Defence Against the Dark Arts,1991-12-06,88.0,Absent,Flitwick
+STU0168,Cedric Longbottom,Ravenclaw,3,Astronomy,1992-01-24,45.0,Present,McGonagall
+STU0169,Luna Longbottom,Gryffindor,6,Potions,1991-12-23,89.0,Absent,McGonagall
+STU0170,Fleur Krum,Hufflepuff,3,Herbology ,1991-09-30,79.0,Absent,Lupin
+STU0171,Draco Thomas,Hufflepuff,5,Astronomy,1991-09-12,63.0,Absent,McGonagall
+STU0172,Fleur Granger,Gryffindor,2,Transfiguration,1991-10-06,67.0,Absent,Flitwick
+STU0173,Cedric Malfoy,Gryffindor,4,Astronomy,1991-10-15,51.0,Absent,Sprout
+STU0174,Percy Diggory,Ravenclaw,1,Herbology,1991/09/11,90.0,LATE,Sinistra
+STU0175,Padma Weasley,Ravenclaw,5,Herbology,1991-12-13,88.0,Absent, Flitwick
+STU0176,Draco Wood,Gryffindor,3,Charms,1991-12-27,81.0,Present,Lupin
+STU0177,Parvati Malfoy,Slytherin,4,Defence Against the Dark Arts,TBD,45.0,Absent,Sprout
+STU0178,Cho Patil,Slytherin,3,Charms,1992-01-09,49.0,Late,Snape
+STU0179,Oliver Chang,Ravenclaw,3,Astronomy,1991-10-08,65.0,Present,Sinistra
+STU0180,Luna Finnigan,Slytherin,2,Defence Against the Dark Arts,1992-02-15,44.0,Present,Flitwick
+STU0181,Viktor Johnson,Hufflepuff,7,Defence Against the Dark Arts,1991-12-24,76.0%,Late,Lupin
+STU0182,Cedric Lovegood,Hufflepuff,1,Herbology,1992-02-09,73.0,Absent,MCGONAGALL
+STU0183,Lavender Granger,Ravenclaw,5,Potions,1991-12-28,92.0,Present,McGonagall
+ STU0184,Hermione Parkinson,Ravenclaw,1,Astronomy,1992-02-05,99.0,Absent,Snape
+STU0185,Padma Brown,Gryffindor,4,,1991-10-19,76.0,Late,Sinistra
+STU0186,Pansy Jordan,Slytherin,1,Herbology,1991-11-27,45.0,Late,Snape
+STU0187,Viktor Longbottom,Gryffindor,2,Astronomy,1991-12-22,55.0,Absent, Flitwick
+STU0188,Seamus Thomas,Hufflepuff,4,Transfiguration,1992-02-01,41.0,Late,Sinistra
+STU0189,Viktor Patil,Gryffindor,3,Potions,1992-02-21,84.0,Absent,Lupin
+STU0190,George Lovegood,Ravenclaw,1,Defence Against the Dark Arts,1991-10-07,79.0,Absent,Sinistra
+STU0191,Viktor Wood,Slytherin,5,Astronomy,1991-11-19,83.0,Late,Snape
+STU0192,Cedric Lovegood,Gryffindor,6,Astronomy,1992-01-09,81.0,Present,Sprout
+STU0193,Seamus Thomas,Slytherin,2,Transfiguration,1991-10-20,63.0,Present,Sprout
+STU0194,Luna Weasley,Ravenclaw,7,Potions,1992-01-17,39.0,Late,Lupin
+STU0195,Cedric Lovegood,Hufflepuff,2,Charms,1992-02-25,56.0,Late,Flitwick
+STU0196,Padma Granger,Hufflepuff,3,Astronomy,1991-10-31,91.0%,Late,Sinistra
+STU0197,Cho Krum,Slytherin,5,Charms,1991-12-30,59.0,Absent,McGonagall
+STU0198,Katie Krum,ravenclaw,7,Transfiguration,1992-01-07,88.0,Present,Sprout
+STU0199,Ginny Lovegood,Ravenclaw,1,Astronomy,1991-12-05,48.0,Late,Sprout
+STU0200,Oliver Malfoy,Ravenclaw,1,Charms,1991-12-25,100.0,Present,McGonagall
+STU0201,Parvati Weasley,Slytherin,7,Herbology,1991-09-07,88.0,Present,McGonagall
+STU0202,Dean Jordan,Ravenclaw,2,Herbology,05/12/1991,63.0,Present,Snape
+STU0203,Cedric Malfoy,Ravenclaw,7,Charms,1991-09-10,71.0,Absent,Flitwick
+STU0204,Lee Lovegood,Hufflepuff,4,Defence Against the Dark Arts,1991-09-21,37.0,Absent,Snape
+STU0205,Ginny Lovegood,Hufflepuff,1,Transfiguration,1991-11-17,50.0,Present,Flitwick
+STU0206,Fred Delacour,Hufflepuff,1,Potions,1992-01-31,37.0,Late,Sprout
+STU0207, Oliver Diggory,Slytherin,3,Herbology,1992-02-05,80.0,Present,Snape
+STU0208,Lavender Delacour,Slytherin,6,Astronomy,1992-01-13,81.0,Present,Snape
+STU0209,Oliver Brown,Gryffindor,4,Herbology,1992-02-10,84.0,Absent,Snape
+STU0210,George Potter,Ravenclaw,7,Potions,1991-11-01,48.0,Late,McGonagall
+STU0211,Angelina Patil,Slytherin,1,Transfiguration,1991-11-26,57.0,Late,Lupin
+STU0212, Padma Johnson,Slytherin,7,Charms,1991-12-27,39.0,Absent,Snape
+STU0213,Ginny Granger,Slytherin,1,Transfiguration,"Jan 10, 1992",85.0,Late,McGonagall
+STU0214,Pansy Finnigan,Gryffindor ,7,Astronomy,1991-11-13,80.0%,Present,Flitwick
+STU0215,Viktor Patil,Ravenclaw,1,Transfiguration,1991-12-12,91.0,Absent,Sprout
+STU0216,Cedric Longbottom, Slytherin,6,Herbology,1992-01-11,69.0,Present,McGonagall
+STU0217,Angelina Delacour,Gryffindor,4,Defence Against the Dark Arts,1992-01-18,72.0.0,Absent,Flitwick
+STU0218,Draco Weasley,Ravenclaw,6,Transfiguration,1991-12-24,89.0,Present,McGonagall
+STU0219,Lee Krum,Ravenclaw,4,Potions,1991-11-30,90.0,,Sinistra
+STU0220,Viktor Granger,Gryffindor,6,Astronomy,1991-12-03,100.0,Late,Sprout
+STU0221,Katie Longbottom,Gryffindor,2,Defence Against the Dark Arts,1991-12-22,39.0,Present,Sinistra
+STU0222,Ron Diggory,Ravenclaw,3,Herbology,1991/09/09,54.0,Late,Lupin
+STU0223,Padma Parkinson,Ravenclaw,4,Potions,1991-10-06,81.0,Absent,Lupin
+STU0224,Cedric Finnigan,Slytherin,1,Potions,1991-10-18,98.0,Late,Sinistra
+STU0225,Dean Brown,Gryffindor,3,Transfiguration,1991-12-24,62.0,Late,Sinistra
+STU0226,Cho Johnson,Slytherin,1,Charms,1991-12-25,57.0,Late,Snape
+STU0227,Padma Weasley,Ravenclaw,6,Transfiguration,1991-09-17,999,Absent,Sinistra
+STU0228,Neville Longbottom,Ravenclaw,5,Charms,1991-10-22,52.0,Present,Snape
+STU0229,Pansy Potter  ,Ravenclaw,5,Defence Against the Dark Arts,1991-12-29,51.0,Late,McGonagall
+STU0230,Ron Weasley,Ravenclaw,4,Astronomy,1992-01-01,87.0,Absent,Sinistra
+STU0231,Lavender Weasley,Slytherin,3,Astronomy,"Dec 25, 1991",94.0,Late,Snape
+STU0232,Oliver Parkinson,Slytherin,7,Defence Against the Dark Arts,1992-01-29,58.0,Present,snape
+STU0233,Parvati Jordan,Gryffindor,7,Potions,1991-10-10,73.0,Present,Lupin
+STU0234,Neville Patil,Slytherin,3,Defence Against the Dark Arts,1991-09-21,67.0,Present,McGonagall
+STU0235,Viktor Brown,Ravenclaw,2,Astronomy,05/02/1992,46.0,Late,McGonagall
+STU0236,Viktor Longbottom,Slytherin,2,Astronomy,1992-02-02,78.0,Late,Lupin
+STU0237,Hermione Potter,Gryffindor,1,Astronomy,1991-11-07,61.0,Late,Lupin
+STU0238,Parvati Potter,Hufflepuff,6,Defence Against the Dark Arts,1992-02-12,73.0,Absent,McGonagall
+STU0166,Fred Wood,Ravenclaw,4,Potions,1991-09-16,55.0,Absent,Sinistra
+STU0240,Parvati Johnson,Hufflepuff,2,Transfiguration,1991-10-07,75.0,Late,Lupin
+STU0241,Cedric Parkinson,Hufflepuff,2, Charms,1992-01-22,48.0,Absent,Lupin
+STU0242,Fred Krum,Gryffindor,3,Herbology,1991-10-07,47.0,Present,Flitwick
+STU0243,Cho Wood,Hufflepuff,2,Charms,1992-01-26,75.0,Present,McGonagall
+STU0244,Neville Johnson,Hufflepuff,4,Transfiguration,1991-09-06,46.0,Absent,Sprout
+STU0245,Oliver Krum,GRYFFINDOR,2,Defence Against the Dark Arts,1991-09-13,41.0,Absent,McGonagall
+STU0246,Pansy Johnson,Ravenclaw,5,Potions,1991-12-20,52.0.0,Absent,Snape
+STU0247,Angelina Parkinson,Hufflepuff,3,Potions,1991-09-14,59.0,Absent,Sprout
+STU0248,Percy Thomas,gryffindor,4,Defence Against the Dark Arts,19/01/1992,70.0,Late,Sprout
+STU0249,Katie Malfoy,Slytherin,1,Herbology,1991-11-26,81.0,Present,McGonagall
+STU0250,Ginny Jordan,Hufflepuff,5,Potions,1991-09-10,52.0,Late,Snape
+STU0251,Cedric Johnson,Hufflepuff,2,Defence Against the Dark Arts,1991-10-06,76.0,Late,Lupin
+STU0252 ,Cedric Longbottom,Hufflepuff,5,Herbology ,1992-01-30,78.0,Late,McGonagall
+STU0253,Oliver Brown,Hufflepuff,6,Defence Against the Dark Arts,1991-12-31,37.0,Absent,McGonagall
+STU0254,Cedric Malfoy,Hufflepuff,5,Defence against the dark arts,1992-02-24,38.0,Late,Sinistra
+STU0255,Pansy Finnigan  ,Slytherin,6,Potions,1992-01-01,56.0,Late,Lupin
+STU0256,Viktor Wood,Slytherin,7,Astronomy,1991/09/09,49.0,Present,Flitwick
+STU0257,Harry Krum,Ravenclaw,4,Charms,1992-02-24,61.0,Absent,Sprout
+STU0258,Oliver Johnson,Gryffindor,6,Charms,1991-10-24,76.0,Late,Lupin
+STU0259,Pansy Jordan,Hufflepuff,3,potions,"Jan 15, 1992",78.0,Late,Sprout
+STU0260,Seamus Finnigan,Hufflepuff,2,Charms,1992-01-21,73.0,Present,McGonagall
+STU0261,Cho Thomas,Slytherin,6,Astronomy,21/11/1991,96.0,Absent,Sprout
+STU0262,Percy Finnigan,Ravenclaw,1,Defence Against the Dark Arts,1992-01-18,83.0,Absent,Sinistra
+STU0263,Seamus Lovegood,Ravenclaw,1,Transfiguration,1991-09-21,79.0,Absent,Sinistra
+STU0264,Viktor Finnigan,Hufflepuff,8,Charms,1991-11-09,69.0,Present,Lupin
+STU0265,Draco Diggory,Slytherin,1,Astronomy,1991-10-28,64.0,Present,Lupin
+STU0266,Draco Delacour,Ravenclaw,6,Herbology,1992-02-22,52.0,LATE,Snape
+STU0267,Percy Longbottom,Hufflepuff,6,Herbology,1992-02-14,60.0,Absent,Sprout
+STU0268,Cedric Thomas,Gryffindor,7,Potions,1992-01-25,64.0.0,present,Sinistra
+STU0269,Angelina Granger,Slytherin,4,Charms,1991-12-11,98.0,Here,Snape
+STU0270,Angelina Thomas,Gryffindor,1,Transfiguration,1992-02-02,48.0,Absent,Lupin
+STU0271,Cho Krum,Hufflepuff,2,Defence Against the Dark Arts,1991-11-09,59.0,Present,Sprout
+STU0272,Cedric Longbottom,Hufflepuff,6,Transfiguration,"Oct 18, 1991",36.0,Late,Sinistra
+STU0273,Cedric Thomas,Slytherin,2,Defence Against the Dark Arts,1991-12-13,89.0,Late,Sinistra
+STU0274,Cedric Weasley,Hufflepuff,6,Potions,1991-10-06,96.0%,Absent,Flitwick
+STU0275,Fred Potter,Ravenclaw,4,Charms,1991-11-08,77.0,Absent,Sprout
+STU0276,Lavender Potter,Ravenclaw,6,Transfiguration,1991-10-31,42.0,Late,Sinistra
+STU0277,Draco Krum,Ravenclaw,2,Herbology,1992-01-07,74.0,Late,Sinistra
+STU0278,Draco Thomas,Ravenclaw,5,Charms,1991-10-05,96.0,Present,Flitwick
+STU0279,Padma Parkinson,Hufflepuff,6,Defence Against the Dark Arts,1992-01-16,62.0,Present,Sprout
+STU0280,Katie Weasley,Hufflepuff,5,Astronomy,1991-09-20,49.0,Present,McGonagall
+STU0281,Percy Jordan,Slytherin,5,Defence Against the Dark Arts,1991-10-13,76.0,Late,Flitwick
+stu0282, Padma Malfoy,Slytherin,6,Defence Against the Dark Arts,1991-09-24,100.0,Absent,Sprout
+STU0283,Hermione Krum,Slytherin,5,Herbology,1992-01-23,42.0,Late,Sprout
+STU0284,Padma Thomas,Gryffindor,4,Transfiguration,"Oct 26, 1991",44.0,Present,Snape
+STU0285,Parvati Parkinson,Gryffindor,5,Potions,1991-12-30,39.0,Absent,Snape
+STU0286,PARVATI LONGBOTTOM,Slytherin,7,Astronomy,1992-02-13,88.0,Absent,Sinistra
+STU0287,Dean Krum,Hufflepuff,4,Potions,1992-02-17,52.0,Late,Sinistra
+STU0288,Seamus Malfoy,Slytherin,5,Herbology,1991-10-03, 63.0 ,Present,Lupin
+STU0289,Harry Thomas,Hufflepuff,6,Astronomy,1991-12-18,83.0,Present,Lupin
+STU0290,Fred Krum,Ravenclaw,2,Transfiguration,1991-09-29,39.0,Here,Flitwick
+STU0291,Parvati Potter,Slytherin,2,Potions,1992-01-31,39.0,Absent,Snape
+STU0292,Fleur Granger,Slytherin,6,Potions,1991-12-22,64.0,Late,Sprout
+STU0293,Ginny Granger,Slytherin,5,Transfiguration,1992-01-26,75.0%,Late,Flitwick
+STU0294 ,Fleur Patil,Slytherin,3,Charms,1992-01-12,63.0,Absent,Sinistra
+STU0295,Cho Finnigan,Gryffindor,5,Defence Against the Dark Arts,1991-10-15,89.0,Late,Sinistra
+STU0296,Pansy Granger,Ravenclaw,6,Astronomy,1992-01-13,75.0, late,Sprout
+STU0297,Parvati Delacour,Slytherin,3,Herbology,1992-01-16,95.0,Present,Flitwick
+STU0298,Fred Thomas,Slytherin,7,Herbology,1992-01-22,87.0,Absent,Snape
+STU0299,Percy Jordan,Slytherin,4,Charms,1991-10-23, 77.0 ,Late,McGonagall
+STU0300,Ron Krum,Ravenclaw,1,Defence Against the Dark Arts,1991/10/19,41.0,Absent,Sinistra
+STU0301,Dean Granger,Gryffindor,2,Defence Against the Dark Arts,1992-02-19,62.0,Absent,Sinistra
+STU0302,Ginny Patil,Ravenclaw,1,Charms,"Oct 01, 1991",96.0,Present,Flitwick
+STU0303,Lee Chang,Gryffindor ,2,Defence Against the Dark Arts,1991-11-12,83.0,Absent,McGonagall
+STU0304,Percy Parkinson,Ravenclaw,3,Transfiguration,1992-01-06,94.0,Present,Lupin
+STU0305,Angelina Johnson,Ravenclaw,2,Transfiguration,1991-12-15,40.0,Late,McGonagall
+STU0306,Fred Lovegood,Gryffindor,3,Defence Against the Dark Arts,1992-01-27,88.0,Absent,Lupin
+STU0307,Luna Chang,Ravenclaw,2,Herbology,1991-11-02,98.0,Late,Lupin
+STU0308,Viktor Patil,Ravenclaw,7,Herbology,1992-02-12,97.0,Absent,Sinistra
+STU0309,Neville Parkinson,Slytherin,2,Astronomy,1992-01-04,58.0,Late,Lupin
+STU0310, Viktor Granger,Gryffindor,7,Potions,1991-09-13,35.0,Absent,Sinistra
+STU0311,Luna Diggory,Gryffindor,6,Charms,1991-10-26,99.0,Absent,Snape
+STU0312,Seamus Granger,Hufflepuff,6,Herbology,1991-09-02,87.0,Present,Snape
+STU0313,Harry Jordan,Ravenclaw,5,Transfiguration,1992-01-07,90.0,Present,Snape
+STU0314,Draco Malfoy,Slytherin,2,Charms,1992-01-13,67.0,Absent,Lupin
+STU0315,George Wood,Gryffindor,3,Herbology,1992-01-23,66.0,Late,Sprout
+STU0316,Fred Thomas,Gryffindor,6,Astronomy,1991-09-24,86.0,Absent,Snape
+STU0317,Dean Brown  ,Hufflepuff,1,Astronomy,1992-02-27,56.0,PRESENT,Snape
+STU0318,Pansy Delacour,Ravenclaw,5,Potions,1991-09-11,64.0,Present,Lupin
+STU0319,Lee Johnson,Ravenclaw,1,Potions,1991-11-11,39.0,Present,Sinistra
+STU0320,Cedric Potter,Slytherin,5,Charms,1991-12-11,44.0,Absent,Sinistra
+STU0321,Neville Diggory,Hufflepuff,6,Defence Against the Dark Arts,1991-12-08,52.0,Late,McGonagall
+STU0322,Angelina Weasley,Ravenclaw,1,Potions,1991-10-30,44.0,Absent,Sprout
+STU0323,Fleur Wood,Ravenclaw,1,Astronomy,1991-12-25,97.0,Present,McGonagall
+STU0324,Seamus Brown,Hufflepuff,4,Charms,1992-01-28,83.0,Present,Sinistra
+STU0325,Fleur Thomas,Slytherin,6,Potions,1991/11/08,N/A,Absent,Snape
+STU0326,Lee Lovegood,Hufflepuff,3,Transfiguration,1991-09-24,35.0,Absent,Snape
+STU0327,Padma Parkinson,Ravenclaw,1,Charms,1991-10-18,90.0,Absent,Snape
+STU0328,Percy Brown,Hufflepuff,1,Potions,1991-11-30,46.0,Late,Snape
+STU0329,Fleur Patil,Hufflepuff,1,Transfiguration,1991-12-09,45.0,Late,Sprout
+STU0330,Percy Diggory,Slytherin,6,Herbology,1991-10-06,69.0,Absent,Flitwick
+STU0331,George Johnson,Slytherin,1,Charms,1991-11-10,88.0,Absent,Sprout
+STU0332,Pansy Weasley,Ravenclaw,3,Charms,1992-02-08,120,Late,
+STU0333,Fleur Chang,Gryffindor ,1,Charms,1991-09-02,85.0,Absent,McGonagall
+STU0334,Fleur Wood,Ravenclaw,4,Transfiguration,1992-02-14,52.0,Absent,Sprout
+STU0335,Cedric Chang  ,Hufflepuff,3,Charms,1991-11-21,72.0,Late,Sprout
+STU0336,Lee Johnson,Slytherin,3,Herbology,1991-12-10,81.0,Present,McGonagall
+STU0337,Lavender Chang,Slytherin,6,Defence Against the Dark Arts,1991-12-28,61.0,Absent,Snape
+STU0338,Cho Weasley,Hufflepuff,6,Herbology,10/02/1992,73.0,Present,MCGONAGALL
+stu0339,George Lovegood,Hufflepuff,7,Herbology,1991-12-24,96.0,Late,Snape
+STU0340,Dean Brown,Hufflepuff,5,,1992-02-27,45.0,Present,McGonagall
+STU0341,Fred Parkinson,Slytherin,6,Defence Against the Dark Arts,1992-01-23,86.0,Absent,Snape
+STU0342,Parvati Malfoy,Gryffindor,1,Transfiguration,1992-01-09,63.0.0,Absent,Flitwick
+STU0343,Seamus Wood,Hufflepuff,7,Astronomy,1992-02-24,99.0, late,Lupin
+STU0344,Seamus Potter,Hufflepuff,1,Transfiguration,1991-09-22, 49.0 ,Late,Sprout
+STU0345,Luna Parkinson,Ravenclaw,3,Herbology,1991-13-04,96.0,Absent,Flitwick
+STU0346,Pansy Malfoy,Hufflepuff,6,Astronomy,1991-11-21,43.0.0,Absent,Sprout
+STU0347,Hermione Malfoy,Gryffindor,7,Transfiguration,1991-09-28,,Late,Sinistra
+STU0348,Fred Jordan,Slytherin,5,Charms,1992-01-22,89.0, late,McGonagall
+STU0349,Fred Wood,Slytherin,2,Astronomy,1991-12-20,85.0,Present,Sinistra
+STU0350,Angelina Chang,Hufflepuff,-1,Herbology,1991-09-02,62.0,Present,Sprout
+STU0351,George Weasley,Gryffindor,7,Defence Against the Dark Arts,1991-12-03,76.0,Present,Flitwick
+STU0352,Padma Malfoy,Ravenclaw,6,Herbology,not recorded,75.0,Late,Lupin
+STU0353,Dean Wood,Gryffindor,3,Transfiguration,1992-02-06,57.0,present,Sprout
+STU0354,Lee Thomas,HUFFLEPUFF,6,Charms,1991-10-01,65.0,Absent,McGonagall
+STU0355,Draco Longbottom,Ravenclaw,6,Charms,1991-12-09,88.0,Late,Lupin
+STU0356,Luna Wood,Hufflepuff,2,Herbology,1992-01-16,57.0,Late,Sinistra
+STU0357,Neville Johnson, Slytherin,2,Charms,1991-12-25,41.0,Absent,McGonagall
+STU0358,Harry Johnson,Slytherin,2,Herbology,1992-01-08,98.0,Absent,Lupin
+STU0359,Katie Johnson,Hufflepuff,6,Herbology,1991-10-13,45.0,Here,Sprout
+STU0360,Harry Diggory,Ravenclaw,1,Transfiguration,1992-01-16,71.0,Present,Flitwick
+STU0361,Padma Johnson,Gryffindor,5,Potions,1992-01-18,0,Late,McGonagall
+STU0362,Hermione Krum,Slytherin,4,Potions,1992-02-15,66.0,Absent,Sinistra
+ STU0363,Hermione Krum,Ravenclaw,3,Potions,1991-10-01,65.0,Present,Sprout
+STU0306,Angelina Parkinson,Hufflepuff,2,Defence Against the Dark Arts,1991-10-23,105,Present,Flitwick
+STU0365,Lavender Parkinson,Ravenclaw,5,Defence Against the Dark Arts,1991-11-22,72.0,Absent,Flitwick
+STU0366,Lavender Finnigan,Gryffindor,2,Herbology,1991-11-10,51.0,Late,Snape
+STU0367,Luna Diggory,Slytherin,6,Transfiguration,1992/02/21,85.0,Absent, Flitwick
+STU0368,Luna Finnigan,Hufflepuff,4,Herbology,1992-02-10,46.0,Absent,Snape
+STU0369,Oliver Finnigan,Ravenclaw,4,Herbology,1992-01-27,35.0,Late,McGonagall
+STU0370,Ron Krum,Ravenclaw,7,Potions,1991-12-11,62.0,Absent,Lupin
+STU0371,Ginny Johnson,Ravenclaw,3,Transfiguration,1992-01-19,51.0,Absent ,McGonagall
+STU0372,Pansy Patil, Slytherin,1,Potions,1991-12-27,37.0,Present,Sinistra
+STU0373,Neville Krum,Hufflepuff,1,Herbology,1992-02-24,51.0,Late,Flitwick
+STU0374,Cho Longbottom,Ravenclaw,1,Astronomy,1991-11-04,45.0,Absent,McGonagall
+STU0375,Katie Longbottom,Gryffindor,4,Astronomy,1992-02-27,64.0,Absent,McGonagall
+STU0376,Viktor Weasley,Gryffindor,1,Charms,1991-09-20,51.0,Late,Sprout
+STU0377,Fred Jordan,Hufflepuff,9,Potions,1991/11/27,50.0,Absent,Sinistra
+STU0378,Lee Lovegood,Hufflepuff,1,Charms,1991-09-23,48.0,Present,Sprout
+STU0379,,Ravenclaw,2,Herbology,1992-02-12,53.0,Present,Flitwick
+STU0380,Oliver Potter,Slytherin,4,Transfiguration,1991-10-25,54.0,Absent,Sinistra
+STU0381,Fleur Krum,Slytherin,1,Potions,1991-10-02,84.0,PRESENT,Flitwick
+STU0382,PARVATI PATIL,Slytherin,2,Transfiguration,1991-09-22,66.0,Late,Sinistra
+STU0383,Fleur Thomas,Gryffindor,7,Astronomy,1991-10-23,100.0%,Present,McGonagall
+STU0384,Angelina Wood,Ravenclaw,6,Potions,1992-01-05,84.0,Present,Flitwick
+STU0385,Fred Johnson,Gryffindor,5,potions,1991-11-21,51.0,Absent,McGonagall
+STU0386,Lavender Delacour,Ravenclaw,5,Astronomy,1991-12-30,44.0,Present,Flitwick
+STU0387,Lavender Weasley,Gryffindor,3,Charms,1991-09-16,85.0,Late,Snape
+STU0388,Cho Jordan,Hufflepuff,4,Astronomy,1991/09/22,54.0,Absent,Sprout
+STU0389,Ron Thomas,,5,Charms,1992-01-16,76.0,Absent,Sprout 
+STU0390,Lavender Weasley,Ravenclaw,6,Herbology,1991-11-01, 42.0 ,Present,Sinistra
+STU0391,Ron Delacour,Gryffindor,4,Defence Against the Dark Arts,1991-09-15,74.0,Late,Lupin
+STU0392,Angelina Longbottom,Gryffindor,1,Astronomy,1992-02-27,36.0,Present,Flitwick
+STU0393,Pansy Parkinson,Ravenclaw,2,Transfiguration,1991-11-08,50.0,Here,Flitwick
+STU0394,Cedric Delacour,Ravenclaw,5,Potions,1992-01-26,44.0,Absent,McGonagall
+STU0395,Padma Jordan,Ravenclaw,1,Herbology,1991-10-13,82.0,Present,Lupin
+STU0396,George Malfoy,Gryffindor,2,Astronomy,"Sep 01, 1991",40.0,Present,Lupin
+STU0397,Fred Granger,Hufflepuff,3,Herbology,1991-10-16,39.0,Late,Flitwick
+STU0398,Lee Delacour,Slytherin,3,Charms,1991-11-21,69.0,Present,Sprout
+STU0399,Lavender Parkinson,Gryffindor,5,Astronomy,1991-10-16,63.0,Late,Snape
+STU0400,Hermione Wood,Gryffindor,4,Transfiguration,1991/11/23,46.0,Late,McGonagall
+STU0401,Padma Potter,Ravenclaw,2,Transfiguration,"Nov 17, 1991",66.0,Absent,Lupin
+STU0402 ,Seamus Johnson,Slytherin,6,Defence Against the Dark Arts,1991-10-09,35.0,Absent,Flitwick
+STU0403,Harry Diggory,Ravenclaw,6,Astronomy,1991-11-25,35.0,Late,Snape
+STU0404,Dean Thomas,Gryffindor,2,Defence Against the Dark Arts,1991-12-17,97.0,Present,Flitwick
+stu0405,Luna Finnigan,Gryffindor,1,Charms,1991-12-15,82.0,Absent,Lupin
+STU0406,Angelina Weasley  ,Gryffindor,5,Charms,1991-12-10,44.0,Late,Sinistra
+STU0407,Lavender Granger,Hufflepuff,6,Charms,1991-11-14,68.0,Absent,Flitwick
+STU0408,Dean Patil,Ravenclaw,4,Transfiguration,1991-09-20,60.0,Present,Flitwick
+STU0409,Lavender Malfoy,gryffindor,1,Charms,1991-12-29,75.0,Absent,Sprout
+STU0410,Draco Brown,ravenclaw,7,Charms,1991-11-18,94.0,Absent,Sprout
+STU0411,Draco Weasley,HUFFLEPUFF,7,Astronomy,,40.0,Present,McGonagall
+STU0412,Cedric Lovegood,Gryffindor,6,Charms,1991-12-11,100.0,Present,McGonagall
+STU0413,Katie Thomas,Ravenclaw,7,Charms,1991-12-13,92.0,Late,Snape
+STU0414,Angelina Brown,Slytherin,1,Herbology,1991-10-06,50.0%,Present,Snape
+STU0415,Hermione Diggory,Slytherin,2,Herbology,1992-02-23,45.0,Late,McGonagall
+STU0416,Lavender Finnigan,Gryffindor,1,Potions,1992-02-13,91.0,Present,Flitwick
+STU0417,Ron Patil,Gryffindor,1,Herbology,1991-10-14,90.0,Late,Snape
+STU0418,Dean Johnson,Gryffindor,4,Astronomy,1991-10-15,80.0,Present,Sprout
+STU0419,Neville Finnigan,Ravenclaw,4,Charms,1992-02-05,66.0,Late,Snape
+STU0420,Cho Johnson,Hufflepuff,5,Herbology,1991-09-23,70.0,Absent,Snape
+STU0421,Luna Delacour,Slytherin,6,Defence Against the Dark Arts,1992-02-09,37.0,Absent,Flitwick
+STU0422,Lee Parkinson,Hufflepuff,5,Herbology,1992-01-23,99.0,Absent,McGonagall
+STU0423,Dean Finnigan  ,Slytherin,1,Transfiguration,27/10/1991,38.0,Absent,Lupin
+STU0424,Hermione Johnson,Ravenclaw,7,Defence Against the Dark Arts,1991-10-11,47.0,Present,Flitwick
+STU0425,Katie Diggory,Ravenclaw,5,Astronomy,1991-10-27,N/A,Absent,MCGONAGALL
+STU0426,Neville Longbottom,Slytherin,5,Transfiguration,1992-02-26,80.0,Late,Sinistra
+STU0427,Harry Parkinson,Slytherin,5,Charms,1992-01-17,74.0,Present,Sprout
+STU0428,Pansy Granger,Gryffindor,1,Charms,1991-10-27,37.0,Late,Lupin
+STU0429,Pansy Potter,Ravenclaw,5,Charms,1991/11/27,57.0,Absent,Flitwick
+STU0430,Hermione Potter,Slytherin,5,Astronomy,1991/09/29,81.0,Present,Flitwick
+STU0431,Seamus Wood,Gryffindor,3,Transfiguration,1991-10-05, 55.0 ,Late,McGonagall
+STU0432 ,Parvati Johnson,Ravenclaw,2,Astronomy,1992-02-25,80.0,Present,Lupin
+STU0433,Katie Longbottom, Slytherin,3,Astronomy,1991-11-15,51.0,Present,Sinistra
+STU0434,Angelina Potter,Hufflepuff,7,Defence Against the Dark Arts,1991-10-17,75.0.0,Late,Snape
+STU0435,Fred Malfoy,Hufflepuff,2,DADA,1991-09-20,65.0,Absent,Sinistra
+STU0436,Cedric Longbottom, Slytherin,7,,1992-02-11,77.0,Absent,Sinistra
+STU0437,Harry Finnigan,,2,DADA,1991/11/29,67.0,Present,Snape
+STU0438,Angelina Potter,Gryffindor,4,Herbology,1991-12-17,56.0,Absent,Sinistra
+STU0439,Pansy Wood,Ravenclaw,5,Herbology,1992-01-01,63.0,Present,Snape
+STU0440,Padma Weasley,Gryffindor,3,Potions,1991-11-06,48.0,Present,McGonagall
+STU0441,Cedric Longbottom,Hufflepuff,2,Astronomy,1992-01-19,105,Absent,Snape
+STU0442,Fleur Johnson,Gryffindor,4,Astronomy,1992-02-03,90.0,Present,Flitwick
+STU0443,Hermione Malfoy,Ravenclaw,2,Charms,1992-02-26,68.0,Late,Sprout
+STU0444,Cho Thomas,Slytherin,1,Potions,1992-01-25,97.0,Present,Sprout
+STU0445,Hermione Parkinson,Gryffindor,4,Potions,1992-02-17,96.0,present,McGonagall
+STU0446,Draco Potter,Slytherin,2,Herbology ,1991-09-21,999,Present,McGonagall
+STU0447,Cho Wood,Hufflepuff,4,Astronomy,1991-09-24,84.0,Present,McGonagall
+STU0448,Seamus Wood,Ravenclaw,2,Herbology,1991-11-07,91.0,PRESENT,Snape
+STU0449,George Diggory,Ravenclaw,5,Potions,1992-02-26,47.0,Present,Flitwick
+STU0450,Katie Parkinson,Hufflepuff,7,Defence Against the Dark Arts,1992-01-20,42.0.0,Absent,Flitwick
+STU0451,Oliver Delacour,Hufflepuff,5,Charms,1991-11-16,45.0,Absent,Sprout
+STU0452,Lee Granger,Slytherin,1,Herbology,1991-10-13,62.0,Present,Flitwick
+STU0453,Luna Granger,Hufflepuff,1,Astronomy,1991-10-22,53.0,Late,Sprout
+STU0454,George Patil,ravenclaw,1,Herbology,1991-12-11,76.0,Absent,Lupin
+STU0455,Oliver Krum,Gryffindor,7,Astronomy,1992-01-29,88.0,Present,Lupin
+STU0456,,Slytherin,5,Defence Against the Dark Arts,1991-09-26,48.0,Late,Lupin
+STU0457,Draco Thomas,Ravenclaw,4,Transfiguration,"Feb 15, 1992",97.0,Late,Sprout
+STU0458,Fleur Johnson,Gryffindor,2,Transfiguration,1991-10-07, 86.0 ,Present,Sprout
+STU0459,Dean Patil,Slytherin,1,Astronomy,1991-11-08,82.0,Present,Sprout
+STU0460,Cedric Thomas,Ravenclaw,3,Herbology,1992-02-23,47.0,Present,Sinistra
+STU0461,Luna Thomas,Hufflepuff,7,Transfiguration,1991-12-16,46.0,Present,McGonagall
+STU0462,Padma Chang,Hufflepuff,6,Herbology,1991-12-05,42.0,Late,Lupin
+STU0463,Neville Weasley,Ravenclaw,6,Defence Against the Dark Arts,1991-10-05,38.0,Present,Sprout
+STU0464,Ginny Chang,Gryffindor,2,Potions,1991-09-13,81.0,Late,Sprout
+STU0465,Ginny Finnigan,Ravenclaw,7,Herbology,1991-12-11,50.0,Late,Lupin
+STU0466,Harry Diggory,Ravenclaw,4,Defence Against the Dark Arts,1991-10-16,95.0,Late,Sprout
+STU0467,Percy Parkinson,HUFFLEPUFF,2,Transfiguration,"Feb 24, 1992",0,Absent,Sinistra
+STU0468,Harry Wood,Gryffindor,2,Defence Against the Dark Arts,1991-10-27,63.0,Late,Flitwick
+STU0469,Ginny Finnigan,Hufflepuff,5,Potions,1991-09-03,95.0,Present,Sinistra
+STU0470,Viktor Longbottom,Gryffindor,2,Transfiguration,1991-11-18,70.0,Absent,Lupin
+STU0471,Dean Parkinson,Hufflepuff,3,Charms,1991-11-17,85.0,Late,Sprout
+STU0472,Draco Potter,Ravenclaw,5,Astronomy,TBD,71.0,Absent,Lupin
+STU0473,Katie Malfoy,Hufflepuff,1,Transfiguration,1992-02-11,76.0,Absent,McGonagall
+STU0474,George Thomas,Slytherin,2,Defence Against the Dark Arts,15/09/1991,86.0,Late,Flitwick
+STU0475,Cedric Lovegood,Gryffindor,6,Herbology,"Nov 06, 1991",88.0,Absent,McGonagall
+STU0316,Dean Granger,Slytherin,3,Astronomy,1991-10-27,95.0,Late,Sinistra
+STU0477,Seamus Jordan,Ravenclaw,7,Charms,1992/01/21,58.0,Absent,Sinistra
+STU0478,Draco Johnson,Slytherin,6,Transfiguration,1992-01-22,58.0,Late,Sinistra
+STU0479,Cedric Weasley,Slytherin,3,Charms,1991/11/18,88.0,Absent,Sinistra
+STU0027,Seamus Finnigan,Ravenclaw,4,Potions,1991-09-14,44.0,Absent,Sprout
+STU0481,Ginny Jordan,Gryffindor,7,Astronomy,1992-01-14,73.0,Absent,Sprout
+STU0482,Hermione Lovegood,Slytherin,2,Transfiguration,1992-01-24,93.0,Present,Sprout
+STU0483,Cedric Longbottom, Slytherin,4,Transfiguration,1991-10-16,75.0%,Late,Sinistra
+STU0484,Hermione Potter,Hufflepuff,3,Charms,1992-01-26,55.0,Absent,Flitwick
+STU0485,Ron Lovegood,Hufflepuff,6,Herbology,1991-12-19,96.0,Absent,Sprout
+STU0486,Harry Granger,Slytherin,6,Transfiguration,1991-11-22,59.0,Present,Snape
+STU0487,Katie Potter,Slytherin,2,Astronomy,1991-11-19,51.0,Present,McGonagall
+STU0488,Dean Jordan,Ravenclaw,2,Potions,1991-11-16,72.0,Absent,Snape
+STU0489,Angelina Jordan,Ravenclaw,4,Astronomy,1991-11-27,97.0,Absent,Flitwick
+STU0490,Ginny Longbottom,Hufflepuff,1,Charms,04/10/1991,62.0,Here,Flitwick
+STU0491,Harry Jordan,Slytherin,1,Transfiguration,1992-02-14,39.0,Absent,Sinistra
+STU0492,Viktor Finnigan,Gryffindor,5,Potions,1991-09-28,37.0,Present,Sinistra
+STU0493,Lee Malfoy,Hufflepuff,9,Herbology,1992-01-19,67.0,Absent,Snape
+STU0494,Lee Lovegood  ,Slytherin,6,Astronomy,1991/09/03,73.0,Absent,Sinistra
+STU0495,Katie Malfoy,Ravenclaw,5,Defence Against the Dark Arts,1991-10-06,88.0,Present,Sinistra
+STU0496,Oliver Malfoy,Ravenclaw,1,Potions,1991-10-21,60.0,Absent,Sprout
+STU0497,Oliver Chang,Ravenclaw,6,potions,1991-10-12,40.0,Late,McGonagall
+STU0498,Pansy Chang,Hufflepuff,3,Charms,1991-09-04,46.0,Present,Snape
+STU0499,Lavender Johnson,Slytherin,1,Defence Against the Dark Arts,1991-09-26,67.0,Late,Snape
+STU0500,Fred Krum,Ravenclaw,3,Herbology,1991-09-26,57.0,Present,Snape
+STU0083,Parvati Johnson,Gryffindor,4,Transfiguration,1991-12-27,54.0,Absent,Sinistra
+STU0300,Ron Krum,Ravenclaw,1,Defence Against the Dark Arts,1991/10/19,41.0,Absent,Sinistra
+STU0434,Angelina Potter,Hufflepuff,7,Defence Against the Dark Arts,1991-10-17,75.0.0,Late,Snape
+STU0131,Lavender Thomas,Hufflepuff,6,Transfiguration,1991-11-17,60.0,Absent,Sprout
+STU0003,Fred Jordan,Gryffindor,5,Charms,1992/02/14,88.0,Present,Sinistra
+STU0170,Fleur Krum,Hufflepuff,3,Herbology ,1991-09-30,79.0,Absent,Lupin
