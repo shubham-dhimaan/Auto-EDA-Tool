@@ -47,7 +47,7 @@ STU0045,Viktor Finnigan,Slytherin,6,Herbology,1991-12-19,36.0,Present,Lupin
 STU0046,Ron Lovegood,Gryffindor,7,Transfiguration,1992-01-20,53.0,Absent,Lupin
 STU0047,Luna Granger,Ravenclaw,3,Potions,1991-10-24,66.0,Late,Mcgonagall
 STU0048,Draco Parkinson,Hufflepuff,5,Astronomy,1991-10-31,55.0,Present,Flitwick
-STU0049,Parvati Potter,Slytherin,6,Transfiguration,1992-02-19,66.0,Absent,Sinistra
+STU0049,Parvati Potter,Slytherin,6,Transfiguration,1992-02-19,66.0,Absent,Mcgonagall
 STU0050,Neville Malfoy,Hufflepuff,7,Potions,1991-10-27,60.0,Absent,Mcgonagall
 STU0051,Seamus Thomas,Slytherin,2,Potions,1991-10-20,86.0,Absent,Sinistra
 STU0052,George Weasley,Ravenclaw,3,Astronomy,1991-12-12,77.0,Present,Lupin
@@ -330,7 +330,7 @@ STU0328,Percy Brown,Hufflepuff,1,Potions,1991-11-30,46.0,Late,Snape
 STU0329,Fleur Patil,Hufflepuff,1,Transfiguration,1991-12-09,45.0,Late,Sprout
 STU0330,Percy Diggory,Slytherin,6,Herbology,1991-10-06,69.0,Absent,Flitwick
 STU0331,George Johnson,Slytherin,1,Charms,1991-11-10,88.0,Absent,Sprout
-STU0332,Pansy Weasley,Ravenclaw,3,Charms,1992-02-08,65.0,Late,Sinistra
+STU0332,Pansy Weasley,Ravenclaw,3,Charms,1992-02-08,65.0,Late,Mcgonagall
 STU0333,Fleur Chang,Gryffindor,1,Charms,1991-09-02,85.0,Absent,Mcgonagall
 STU0334,Fleur Wood,Ravenclaw,4,Transfiguration,1992-02-14,52.0,Absent,Sprout
 STU0335,Cedric Chang,Hufflepuff,3,Charms,1991-11-21,72.0,Late,Sprout

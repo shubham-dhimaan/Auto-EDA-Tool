@@ -7,6 +7,7 @@ Pandas data-cleaning functions with an AI model.
 """
 # --- Standard library imports ---
 import json
+import pandas as pd
 import os
 
 # --- Third-party imports ---
@@ -30,7 +31,7 @@ client = genai.Client(
 # --- 1. Cleaning recommendations ---
 
 
-def get_cleaning_recommendations(file_path):
+def get_cleaning_recommendations(file_path, df):
 
 
     """
@@ -39,6 +40,7 @@ def get_cleaning_recommendations(file_path):
 
     Args:
         file_path (str): Path to the JSON profiling report.
+        df (pd.DataFrame): The DataFrame to analyze.
         client: AI client used to generate recommendations.
 
     Returns:
@@ -48,9 +50,11 @@ def get_cleaning_recommendations(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
      mod_report = json.load(f)
 
+    report, mapping_for_categorical = inspect_dataset(df)
+
     prompt = f"""
-    Analyze this ydata-profiling report and briefly identify
-    what data cleaning is needed.
+    Analyze the ydata-profiling report, the inspection report, and mapping report (for categorical columns) 
+    and briefly identify what data cleaning is needed.
 
     Focus on:
     - Missing values
@@ -63,14 +67,26 @@ def get_cleaning_recommendations(file_path):
     For each issue, mention the relevant column and a brief
     recommended action.
 
-    Only recommend actions supported by the report.
+    Only recommend actions supported by the reports.
+    If the mapping report indicates a categorical column has inconsistent values, suggest standardizing them baesed on the unique value counts.
+    Give detailed instructions for for categorigcal columns with inconsistent values, including how to standardize based on what errors are present in the mapping report. If the mapping report indicates a categorical column has consistent values, do not suggest any cleaning for that column.
+    You can ignore normalizing any numerical columns in the mapping report, instead they shoukd be converted into numeric format.
+
     Do not write Python code or perform the cleaning.
     If an issue cannot be determined from the report, say so.
+    You goal is to give detailed enough steps so that python functions can be generated to perform the cleaning.
 
     Return a concise, readable summary.
 
     Profiling report:
     {json.dumps(mod_report)}
+
+    Inspection report:
+    {report.to_dict(orient="records")}
+
+    Mapping report:
+    {mapping_for_categorical.to_dict(orient="records")}
+
     """
 
     response = client.models.generate_content(
@@ -88,7 +104,7 @@ def generate_cleaning_functions(cleaning_insights, df_metadata):
 
     """
     Generate Python cleaning functions from an analysis
-    and DataFrame metadata.
+    and DataFrame metadata and df insepction report
 
     Args:
         cleaning_insights (str): Summary of cleaning issues.
@@ -99,6 +115,7 @@ def generate_cleaning_functions(cleaning_insights, df_metadata):
         names, affected columns, reasons, and source code.
     """
 
+    
     skills_loaded = sl.load_skill_text(cleaning_insights)
 
     prompt = f"""
@@ -165,3 +182,31 @@ def generate_cleaning_functions(cleaning_insights, df_metadata):
     )
 
     return response.text
+
+def inspect_dataset(df):
+    report = []
+    mapping = []
+
+    for column in df.columns:
+        series = df[column]
+
+        report.append({
+            "column": column,
+            "dtype": str(series.dtype),
+            "missing_count": int(series.isna().sum()),
+            "missing_pct": round(
+                series.isna().mean() * 100, 2
+            ),
+            "unique_values": int(series.nunique()),
+            "duplicate_count": int(series.duplicated().sum()),
+            "sample_values": series.dropna().head(5).tolist()
+        })
+
+    for i in report:
+        if i["unique_values"] < 50:
+            mapping.append({
+                "column": i["column"],
+                "unique_values": df[i["column"]].value_counts().to_dict()
+            })
+
+    return pd.DataFrame(report), pd.DataFrame(mapping)
