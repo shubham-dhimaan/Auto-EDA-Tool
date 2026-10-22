@@ -15,3 +15,5 @@ venv/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+ollama_test.py
